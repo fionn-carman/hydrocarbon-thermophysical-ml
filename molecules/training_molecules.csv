@@ -1,0 +1,1115 @@
+smiles,iupac_name,properties_retrieved,source
+CCC(CC)OC(=O)CCCCC(=O)OC(CC)CC,hexanedioic acid bis-(1-ethyl-propyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(=O)CC(Cc1ccccc1)C(=O)OCCCC,2-benzyl-butanedioic acid dibutyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(CCC)CCC,4-propylheptane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=CCCCCCCCCCCCCCCC,1-heptadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(=O)OCC(OC(=O)CCCCCCCC)c1ccccc1,"1-phenyl-ethane-1,2-diol dinonanoate",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COCCCCCCOCC(CC)CCCC,"1,6-bis[(2-ethylhexyl)oxy]hexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)C1CCCC2CCCCC21,1-(1-methyl-heptyl)-decahydro-naphthalene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=CCCCCCCCC,1-decene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(=O)CC(C(=O)OCCCC)C(C)(C)c1ccccc1,2-(1-methyl-1-phenyl-ethyl)-butanedioic acid dibutyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC(CCCC)C1CCCCC1,5-cyclohexyl-docosane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccc(C2CCCCC2)c(C)c1,"1-cyclohexyl-2,4-dimethylbenzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCc1cc(C)ccc1C,"1,4-dimethyl-2-octadecylbenzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC1CCC(C2CCCCC2)CC1,4-nonyl-bicyclohexyl,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(=O)OCC(C)(C)COC(=O)CCCCCCCC,"2,2-dimethyl-1,3-bis-(nonanoyloxy)-propane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCC(CCCCCCCCCCCCCC)C1CCCCC1,15-cyclohexyl-nonacosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC1CCCC1CCCC,1-butyl-2-dodecylcyclopentane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC1c2ccccc2C(CC)c2ccccc21,"9,10-diethyl-9,10-dihydro-anthracene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccccc1-c1ccccc1,"1,1'-Biphenyl, 2-methyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(CCCCCC)c1ccccc1,7-phenyltetradecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(CCCCCC2CCCCC2)CC1,"1,5-dicyclohexylpentane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCc1ccc(Cc2ccccc2)cc1,1-benzyl-4-propyl-benzene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CCOCCCCOCCC(C)CC(C)(C)C)CC(C)(C)C,"1,4-bis(3,5,5-trimethylhexyloxy)butane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(=O)C1CCCCC1C(=O)OCCCC,"cyclohexane-1,2-dicarboxylic acid dibutyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCOCCCCC,1-pentyloxy-pentane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC1CCC(OCC(CC)CCCC)CC1,"1,4-bis(2-ethylhexyloxy)cyclohexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(=O)OCC(COC(=O)CCCCC)(COC(=O)CCCCC)COC(=O)CCCCC,"hexanoic acid 3-hexanoyloxy-2,2-bis- (hexanoyloxymethyl)-propyl ester",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCC1CCc2ccccc2C1,"2-octyl-1,2,3,4-tetradecylnaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(CCC)CCCCCCCCC(CCC)c1ccccc1,4-phenyl-13-propylhexadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(C1CCC(C)CC1)C1CCC(C)CC1,"1,1-bis(4-methylcyclohexyl)dodecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCc1ccc(Cc2ccccc2)cc1,1-benzyl-4-butyl-benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)C(C1CCCCC1)C1CCCCC1,"1,1-dicyclohexyl-2-methyloctane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCc1cccc(CCCCCCCCCC)c1,"1,3-didecylbenzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCOC(=O)CCCC(=O)OCCC(C)C,bis(3-methylbutyl) pentanedioate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(=O)c1ccccc1C(=O)OCC(CC)CCCC,butyl 2-ethylhexyl phthalate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(Cc2ccc(CCC3CCCCC3)cc2)cc1,1-cyclohexyl-2-(4-benzyl-phenyl)-ethane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(C)(C)COC(=O)CCCCCCCCCCC(=O)OCC(C)(C)CCCCCCC,"dodecanedioic acid bis-(2,2-dimethyl-nonyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)(C1CCCCC1)C1CCCCC1,"2,2-dicyclohexylbutane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(=O)OC(C)C,tetradecanoic acid isopropyl ester,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC1CCCc2ccccc21,"1-ethyl-1,2,3,4-tetrahydronaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)C1C=CC(C(C)C)c2ccccc21,"1,4-dihydro-1,4-diisopropylnaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCOC(=O)CCCCCCCCC(=O)OCCC(C)C,decanedioic acid bis-(3-methyl-butyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOCCOCCOCCOCCOCCO,pentaethylene glycol monobutyl ether,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(CCCCCc2ccccc2)cc1,"1,5-diphenylpentane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(C)(C)C(=O)OCC(C)(C)COC(=O)C(C)(C)CCC,"2,2-dimethyl-pentanoic acid 3-(2,2-dimethylpentanoyloxy)-2,2-dimethyl-propyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CC(CCCCC(CC(C)C)CC(C)C)CC(C)C,"4,9-diisobutyl-2,11-dimethyldodecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)OCC,ethyl octacosanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(=O)C=C(CC(=O)OCCCC)C(=O)OCCCC,"propene-1,2,3-tricarboxylic acid tributyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(C)C,2-methylpentadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)OCCCCCCOC(C)CCCCCC,"1,6-bis(1-methylheptyloxy)hexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCC1CCCCC1,3-methylbutylcyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCc1ccc(C)cc1,1-hexyl-4-methylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCOCOCOCOCC,"3,5,7,9-tetraoxaundecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCCCC)CCCCCCCCCC,11-decylhenicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(=O)CC(Cc1ccccc1)C(=O)OCC(CC)CCCC,2-benzyl-butanedioic acid bis-(2-ethyl-hexyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(OC(C)=O)C(CCCCCCCC(=O)OCCCC)OC(C)=O,"9,10-diacetoxy-octadecanoic acid butyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(C)CCCCCCCCC,10-methyleicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCC=C(c1ccccc1)c1ccccc1,"1,1-diphenyl-1-hexadecene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(=O)C1CCCC(C(=O)OCC(CC)CCCC)C1,"cyclohexane-1,3-dicarboxylic acid bis-(2-ethyl-hexyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(CCCCCC)c1ccccc1,7-phenylhexadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC,tetradecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+COCCOCCOCCOCCOCCOC(C)C,"18-Methyl-2,5,8,11,14,17-hexaoxanonadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)CCCCCC,7-methyl-tridecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC1CCC(C(C)C2CCCCC2)CC1,1-cyclohexyl-1-(4-ethyl-cyclohexyl)-ethane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCc1ccc(C(C)C)cc1,1-octadecyl-4-isopropyl-benzene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC=CCCCCCCCC,8-heptadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(=O)OCC(C)(C)COC(=O)CCCCCCCCC,"1,3-bis-(decanoyloxy)-2,2-dimethyl-propane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCC)C(CCC)CCCCCCCC,"9,10-dipropyloctadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCC)CCCCCCCCC,10-octyleicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC1CCCCC1,dodecylcyclohexane,Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCC1CCCC1,heptadecylcyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)C1CCC(C(C)CC)c2ccccc21,"1,4-bis-(sec-butyl)-1,2,3,4-tetrahydro-naphthalene",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC1CCCC2(CCCC2)C1,7-hexadecylspiro[4.5]decane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(CCC)CCCCCCCCC(CCC)C1CCCCC1,4-cyclohexyl-13-propylhexadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCOC(=O)C(=O)OCCCCCCC,diheptyl oxalate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC1CCCC1,heptylcyclopentane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCOCCOCCOCCC,bis(2-propoxyethyl) ether,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccc(C(C)c2ccccc2)cc1,1-(4-methylphenyl)-1-phenylethane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(=O)c1ccccc1C(=O)OC(C)C(=O)OCCCC,phthalic acid 1-butoxycarbonyl-ethyl ester butyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCc1cc2ccccc2cc1C,3-methyl-2-propylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(CC)COC(=O)CCCCC(=O)OCC(CC)CC,hexanedioic acid bis-(2-ethyl-butyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(=O)OCC(COC(=O)CCCC)(COC(=O)CCCC)COC(=O)CCCCCC,pentaerythritol dipentanoate diheptanoate,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCc1cccc2c(C)ccc(C)c12,"1,4-dimethyl-5-octyl-naphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)Cc1ccccc1,phenyl-acetic acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(C)OCCCCCCCCCCOC(C)CCCC,"5,18-dimethyl-6,17-dioxadocosane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(c1ccccc1)c1ccccc1,"1,1-diphenylethane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC(=O)OCCC,octadecanoic acid propyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCc1cccc(CCCCCCCCC)c1CCCCCCCCC,trinonyl-benzene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(c1ccccc1)c1ccccc1,"1,1-diphenyl-propane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCCCC)CC1CCCC1,11-cyclopentylmethylheneicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccc(C2=C(C(C)C)CCC(C)C2)cc1,1-methyl-3-(4-methylphenyl)-4-(1-methylethyl)-3-cyclohexene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(CCCCCCCCCC)CCCCCCCCCC,11-decyl-tetracosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC/C=C\CCCCCCCC(=O)OCCC,cis-octadec-9-enoic acid propyl ester,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(C)(CC)CCCCCCCCCC,11-ethyl-11-methyltricosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCc1ccc(C)cc1,1-(4-methyl-phenyl)-eicosane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(c1ccccc1)c1ccccc1,"1,1-diphenyl-hexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)CC(C(C)C)C(CC(CC)CCCC)C(C)C,"5,10-diethyl-7,8-di(1-methylethyl)tetradecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCC(CCC(C)C)C(CCC(C)C)CCC(C)C,"2,9-dimethyl-5,6-bis(3-methylbutyl)decane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCC,eicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(=O)OCCCC(CCC(C)OC(=O)CCC)OC(=O)CCC,"1,4,7-tris-(butyryloxy)-octane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCOC(=O)CC(Cc1ccc(C)cc1)C(=O)OCCC,2-(4-methyl-benzyl)-butanedioic acid dipropyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=CCCCCCCCCCCCCCCCC,1-octadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)CC(CCCCCC)C(CCCCCC)CC(C)CCCCCC,"9,10-dihexyl-7,12-dimethyl-octadecane",Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)(C1CCCCC1)C1CCCCC1,"2,2-dicyclohexylpropane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCCCCCCC(C)C,"2,11-dimethyldodecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCc1ccccc1,octylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Oc1ccccc1Cc1ccccc1,2-(phenylmethyl)phenol,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCC(C)CC(C)CC(C)C,"2,4,6-trimethyleicosane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC(CCCCCCCC)CCCCCCCC,9-octyl-hexacosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(CCC(CCCC2CCCC2)CCCC2CCCC2)cc1,"1,7-dicyclopentyl-4-phenethyl-heptane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(=O)OCC(COC(=O)CCCCCCC)(COC(=O)CCCCCCC)COC(=O)CCCCCCC,pentaerythritol tetraoctanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)COC(=O)CCCCC(=O)OCC(C)CC,hexanedioic acid bis-(2-methyl-butyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCOCCOCCOCCOCCOCCO,"3,6,9,12,15-pentaoxaeicosan-1-ol",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC=CCC(CCCCCCCCC)CCCCCCCCC,10-nonyl-7-nonadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(C)C,2-methyltridecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(C)CCC(C)OCC(CC)CCCC,"2,5-bis(2-ethylhexyloxy)hexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(C)=O,2-pentadecanone,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccccc1C(=O)c1ccccc1,o-methylbenzophenone,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)CC(C(=O)OCCCCCCCC)C(C)(C)c1ccccc1,2-(1-methyl-1-phenyl-ethyl)-butanedioic acid dioctyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(=CCCCCCCC=C(CCCC)CCCC)CCCC,"5,14-dibutyl-5,13-octadecadiene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC1CCCCC1,1-cyclohexylnonane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOCCOC(=O)c1ccccc1C(=O)OCCOCCCC,"bis(2-butoxyethyl) 1,2-benzenedioate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)CCCC1CCC(C)CC1,4-(4-methyl-cyclohexyl)-butyric acid octyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(CC1CCCCC1)CC1CCCCC1,1-cyclohexyl-2-(cyclohexylmethyl)heptadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(=O)OC(C)COCC(C)OC(=O)CCCCCCCC,bis-(2-nonanoyloxy-propyl)-ether,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C(CCC1CCCC1)=C(CCCC1CCCC1)CCCC1CCCC1,"1,7-dicyclopentyl-4-(3-cyclopentyl-propyl)-hept-3-ene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(C1CCCCC1)C1CCCCC1,"1,1-dicyclohexyltetradecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(CCCC2CCCC2)CC1,1-cyclohexyl-3-cyclopentylpropane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CCCC)(CCCC)C1CCCCC1,"(1,1-dibutylpentyl)cyclohexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCc1cccc2ccccc12,1-pentadecylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=CCCCCCCCCCC,1-dodecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCOC(=O)CC1CC(C(=O)OCCCCC)C1(C)C,"2,2-dimethyl-3-pentyloxycarbonylmethylcyclobutanecarboxylic acid pentyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC(CCCC)CCCC,5-butyl-docosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)CCCC(=O)OCCCCCCCCCCCC,"pentanedioic acid, didodecyl ester",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CC1CCCCC1)C1CCCCC1,"1,2-dicyclohexylpropane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC=CCCCCCCCCC,6-hexadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCc1ccc(C(C)c2ccc(C)cc2)cc1,1-(4-methyl-phenyl)-1-(4-propyl-phenyl)-ethane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(C1CCCC1)C1CCCC1,"1,1-dicyclopentylhexadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCOC(=O)CC(Cc1ccc(C(C)(C)C)cc1)C(=O)OCCC(C)C,2-(4-tert-butyl-benzyl)-butanedioic acid bis-(3-methyl-butyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC1CCCC(CCCCCCCCCC)C1,"1,3-didecyl-cyclohexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCc1ccc(C)cc1,1-methyl-4-octylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCCCCCCCCOC(=O)CCCCCCCCC(=O)OCc1ccccc1,decanedioic acid isotridecyl ester benzyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCc1c(C)cc(C(C)(C)C)cc1C,"1-decyl-2,6-dimethyl-4-(1,1-dimethylethyl)benzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(CCCC(CCCc2ccccc2)c2ccccc2)cc1,"1,4,7-triphenylheptane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=COCCOCCOCCOC=C,triethylene glycol divinyl ether,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(=O)OCC(C)(C)C(OC(=O)CCCCCCCC)C(C)C,"2,2,4-trimethyl-1,3-bis-(nonanoyloxy)-pentane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC1CCCC1CCCCCCC,"1,2-diheptylcyclopentane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(Cc2ccccc2)cc1,diphenylmethane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(CC)OC(=O)CCCCCCCCC(=O)OC(CC)CC,decanedioic acid bis-(1-ethyl-propyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(=O)OCC(COC(=O)CCCC)(COC(=O)CCCC)COC(=O)CCCCCCCC,pentaerythritol dipentanoate dinonanoate,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC,hexadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=CCCCCCCCCC,1-undecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC2C(C1)CCC1CCCC12,dodecahydro-1H-benz[e]indene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCCCCCCC(=O)OCC(CC)CCCC)OC(C)=O,12-acetoxy-octadecanoic acid 2-ethyl-hexyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(C)c1ccccc1,2-phenyldecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(=O)CC(Cc1cccc(C)c1)C(=O)OCC(CC)CCCC,2-(3-methyl-benzyl)-butanedioic acid bis-(2-ethyl-hexyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(C)(C)C1CCCCC1,"(1,1-dimethylbutyl)cyclohexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCc1ccccc1,1-phenylhexadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)CCC(CC)CCCC,"5,8-diethyl-dodecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC=C(CCC)CCCCCCCCCCCCCCC,4-propyl-nonadec-3-ene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCCCCCCC(=O)OCC(C)CCC)OC(=O)CC,12-propionyloxy-octadecanoic acid 2-methyl-pentyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(=O)C1CCCCC1C(=O)OCC(CC)CCCC,"cyclohexane-1,2-dicarboxylic acid bis-(2-ethyl-hexyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC,decane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCc1cccc(Cc2ccccc2)c1,1-ethyl-3-(phenylmethyl)-benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(=O)OCc1ccc(C)cc1,dodecanoic acid 4-methyl-benzyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)(C)c1cccc(C(C)(C)C)c1O,"2,6-bis(1,1-dimethylethyl)phenol",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC1CCCCC1,tridecylcyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(CCC(CCCC2CCCC2)CCc2ccccc2)cc1,6-cyclopentyl-3-phenethyl-1-phenyl-hexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC1CC(C)C(C(C)C2CCCCC2)CC1C,"1-cyclohexyl-1-(2,4,5-trimethyl-cyclohexyl)-ethane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOCCOCCOCOCCOCCOCCCC,"5,8,11,13,16,19-hexaoxatricosane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)c1ccccc1,benzoic acid dodecyl ester,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCOCCC(=O)OCCCCCCCCCC,3-decyloxy-propionic acid decyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(CCCCCCCCCCCC)C1CCCCC1,13-cyclohexyl-pentacosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(c1ccc(C)cc1)c1ccc(C)cc1,"1,1-bis-(4-methyl-phenyl)-dodecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)CCCC(C)CCCC(C)CCC(=O)OC,"methyl 4,8,12-trimethyloctadecanoate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCc1ccccc1-c1ccccc1,"2-ethyl-1,1'-biphenyl",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+COCCOCCOCCOCCOCCOC,"2,5,8,11,14,17-hexaoxaoctadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCC)C(CCC)CCCCCC,"7,8-dipropyltetradecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(Cc1ccccc1)Cc1ccccc1,2-benzyl-1-phenyl-pentane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCOC(=O)CC(CC(=O)OCCC(C)C)C(=O)OCCC(C)C,"propane-1,2,3-tricarboxylic acid tris-(3-methyl-butyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(=O)c1ccccc1C(=O)OCCCC,phthalic acid di-n-butyl ester,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC1CCCCC1C1CCCCC1,2-propyl-bicyclohexyl,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(=O)OCCC,tetradecanoic acid propyl ester,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCc1cc2c(cc1CCCC(C)C)CCCC2,"6,7-bis(4-methylpentyl)-1,2,3,4-tetrahydronaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CC(C)OC(=O)CCCCCCCCC(=O)OC(C)CC(C)C,"decanedioic acid bis-(1,3-dimethyl-butyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(CCC(CCCC2CCCC2)CCC2CCCCC2)cc1,1-cyclohexyl-6-cyclopentyl-3-phenylethylhexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCC,dinonyl phthalate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(CC(C)C)C(=O)OCC(C)(C)C(OC(=O)C(CC)CC(C)C)C(C)C,"2,2,4-trimethyl-pentane-1,3-diol bis-(2-ethyl-4-methyl-pentanoate)",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(O)CCC,4-Decanol,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CC)OCCCCCCOC(CC)CCCCCC,"7,16-diethyl-8,15-dioxadocosane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(CCCCCCc2ccccc2)cc1,"1,6-diphenylhexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(CO)CCC,2-propyl-1-tridecanol,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)/C=C/c1ccccc1,trans-cinnamic acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)c1ccc2ccc3ccccc3c2c1,3-isopropyl-phenanthrene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CCCCCCCCC(CCCC)c1ccccc1)c1ccccc1,"5,14-diphenyloctadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)C(=O)OCCCCCCOC(=O)C(CC)CCCC,"1,6-bis-(2-ethyl-hexanoyloxy)-hexane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(CC(=O)OCCC)C(=O)OCCC,2-dodecyl-butanedioic acid dipropyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC1CCC(C2CCCCC2)CC1,4-octyl-bicyclohexyl,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC=CCCCCC,6-dodecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCc1ccccc1CCCCCCCCCCC,diundecyl-benzene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(CCC(CCCC2CCCC2)CCC2CCCCC2)CC1,1-cyclohexyl-3-(2-cyclohexylethyl)-6-cyclopentylhexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(CCCCCCCCCCCC)c1ccccc1,13-phenylpentacosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(CCCCCC)CCCCCCC,8-hexylpentadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC1CCCCC1,octylcyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCc1cccc2ccccc12,1-pentylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(=CCCCCCCC=C(CC)CC)CC,"3,12-diethyl-3,11-tetradecadiene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCC)(CCCCCCCC)CCCCCCCCC,10-heptyl-10-octyleicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(CCCC)c1ccccc1,5-phenylhexadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(=O)c1ccccc1,Butyrophenone,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(CC)CCCCCC(CC)CC,"3,9-diethyl-undecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC1C(CC)C(CC)C(CC)C(CC)C1CC,"1,2,3,4,5,6-hexaethylcyclohexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCOC(=O)c1cccc(C(=O)OCCCCCC)c1,dihexyl isophthalate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCC)(CCCCCC)CCCCCC,"7,7-dihexyltridecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(=O)OCCCCCCOC(=O)CCCCCCC,"1,6-bis-(octanoyloxy)-hexane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCCC,tricosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCc1ccc2c(c1)CCCC2,"6-octadecyl-1,2,3,4-tetrahydronaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC1CCCC1,"undecane, 1-cyclopentyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC=C(CCCCCC)c1ccccc1,7-phenyl-6-tridecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(=O)Cc1cccc(CC(=O)OCC(CC)CCCC)c1,m-phenylenediacetic acid bis-(2-ethyl-hexyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(CC1CCCCC1)CC1CCCCC1,1-cyclohexyl-2-cyclohexylmethyl-pentane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC=C(c1ccccc1)c1ccccc1,"1,1-diphenyl-1-butene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)CCC(C)OC(=O)CCCC(=O)OC(C)CCC(CC)CCCC,pentanedioic acid bis-(4-ethyl-1-methyl-octyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCc1cccc2c(C)cccc12,2-ethyl-5-methylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(=O)OC,hexadecanoic acid methyl ester,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1cccc(CC(CC(=O)OCCC(C)C)C(=O)OCCC(C)C)c1,2-(3-methyl-benzyl)-butanedioic acid bis-(3-methyl-butyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCC,"(Z,Z)-9,12-octadecadienoic acid, ethyl ester",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(C)C(=O)OCCC(C)CCOC(=O)C(C)CCC,"3-methyl-1,5-bis-(2-methyl-valeryloxy)-pentane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCC,heneicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(=O)OCC(C)CCC(C)COC(=O)CCCCC,"1,6-bis-(hexanoyloxy)-2,5-dimethyl-hexane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(=O)CCCCCC(=O)OCC(CC)CCCC,heptanedioic acid bis-(2-ethyl-hexyl) ester,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCc1cc(C)ccc1C,"benzene, 2,5-dimethyl-1-octyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccc(C)c(C(C)c2ccccc2)c1,"1-(2,5-dimethylphenyl)-1-phenylethane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)C(=O)OCCOCCOCCOC(=O)C(CC)CCCC,"1,2-bis-[2-(2-ethyl-hexanoyloxy)-ethoxy]-ethane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)(CC)c1cccc2ccccc12,1-(1-ethyl-1-methylheptyl)naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC=C(CCCCCC)CCCCCC,7-hexyl-6-tridecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(=O)CC(Cc1ccc(C)cc1)C(=O)OCCCC,2-(4-methyl-benzyl)-butanedioic acid dibutyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)CCC(CC(C)C)OC(=O)CCCCCCCCC(=O)OC(CCC(CC)CCCC)CC(C)C,decanedioic acid bis-(4-ethyl-1-isobutyl-octyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CCOCCCc1ccccc1)COCCCc1ccccc1,"1,4-bis-(3-phenyl-propoxy)-2-methyl-butane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC=C(C)CCCCCCCCCCCCCCC,3-methyl-2-octadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)C1CCCCC1C(=O)OCCCCCCCC,"cyclohexane-1,2-dicarboxylic acid dioctyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C1CCCCC1)C1CCCCC1,"1,1-dicyclohexyl-ethane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCc1ccccc1CCCCCCCCCC,didecyl-benzene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)CCCc1ccc(C)cc1,4-(4-methyl-phenyl)-butyric acid octyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C(CC1CCCC1)=C(CCC1CCCC1)CCC1CCCC1,"1,5-dicyclopentyl-3-(2-cyclopentyl-ethyl)-pent-2-ene",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCOC(=O)CCCCCCCC(=O)OCC1(C)CCCCC1,nonanedioic acid nonyl ester 1-methylcyclohexylmethyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCc1ccc(C)c(C)c1,"1,2-dimethyl-4-heptylbenzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC1CCC(CC2CCCCC2)CC1,"cyclohexane, 1-(cyclohexylmethyl)-4-methyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCC)CCCCCCCC,9-octylnonadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(CC1CCCCC1)C1CCCCC1,"1,2-dicyclohexyl-butane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(=O)OCC(C)(COC(=O)CCCCCCCCC)COC(=O)CCCCCCCCC,"1,3-bis-(decanoyloxy)-2-decanoyloxymethyl2-methyl-propane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC=C(CC)c1ccccc1,3-phenyl-tetradec-3-ene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC1CCCc2ccccc21,"1,2,3,4-tetrahydro-1-butylnaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)OC(=O)CCCCCCCCC(=O)OC(C)CCCCCC,decanedioic acid bis-(1-methyl-heptyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC1CCCc2ccccc21,"1-pentyl-1,2,3,4-tetrahydro-naphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(CC)CO,2-ethyl-1-tetradecanol,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCc1cccc2ccccc12,1-decylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC1CCCC1,1-cyclopentyl-nonane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCC=C(CC)CC,3-ethyl-3-octadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC1CCC(CCCCC)CC1,"1,4-dipentylcyclohexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(CCC)C(CCC)CCCCCCCCC,"10,11-dipropyleicosane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)CC1CCC(C)CC1,(4-methyl-cyclohexyl)-acetic acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC1CCCCC1,butylcyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC1CCC(C2CCCCC2)CC1,"4-hexyl-1,1'-bicyclohexyl",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(CCCC(CCCC2CCCC2)CCCC2CCCC2)C1,"1,7-dicyclopentyl-4-(3-cyclopentyl-propyl)-heptane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCC(C)CCC(C)C(C)CCCC(C)C,"2,6,7,10,14-pentamethylpentadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)CCCCC(=O)OCCCCCCCCCCCC,didodecyl adipate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)[C@H]1CCC[C@@H](C)C1,cis-3-methyl-cyclohexanecarboxylic acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC1CCC2CCCCC2C1,decahydro-2-decylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCOC(=O)CC(Cc1ccc(C(C)(C)C)cc1)C(=O)OCC,2-(4-tert-butyl-benzyl)-butanedioic acid diethyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)C(c1ccccc1)C(C)C,"2,4-dimethyl-3-phenylpentane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(CCCCCCCC(=O)OC)OC(C)=O,9-acetoxy-octadecanoic acid methyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC=C(CCCC)c1ccc2ccccc2c1,5-naphthalen-2-yl-docos-5-ene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCOC(=O)CC(C(=O)OCCC)C(C)(C)c1ccccc1,2-(1-methyl-1-phenyl-ethyl)-butanedioic acid dipropyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCC1CCCC1,1-cyclopentylhenicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC2C(C1)CCC1CCCCC12,tetradecahydro-phenanthrene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCC1CCCCC1)CCC1CCCCC1,1-cyclohexyl-3-(2-cyclohexyl-ethyl)-undecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCc1cc2ccccc2cc1CCCCCC,"2,3-dihexylnaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CC(C1CCCCC1)C1CCCCC1,"1,1-dicyclohexyl-3-methylbutane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=CCCCCCCCCCCCCCC,hexadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCOC(=O)CCCCCCCCC(=O)OCCCCCC,decanedioic acid dihexyl ester,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+COc1ccc(Cc2ccccc2)cc1,1-benzyl-4-methoxybenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCc1ccc2ccccc2c1,2-octylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(=O)Oc1ccc(C)cc1,dodecanoic acid (4-methyl-phenyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCOc1ccccc1,nonyl phenyl ether,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(c1ccccc1)c1ccccc1,"1,1-diphenylpentane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)[C@H]1CC[C@@H](C)CC1,cis-4-methyl-cyclohexanecarboxylic acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)(Cc1ccccc1)c1ccccc1,"1,2-diphenyl-2-methylpropane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)c1ccc(C(C)c2ccccc2)cc1,1-phenyl-1-(4-isopropyl-phenyl)-ethane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)c1ccccc1,(1-methylheptyl)benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=CCCCCCCCCCCCCCCC=C,"1,17-octadecadiene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(CCCC)CCCCCCCCCCCCCCC,16-butyl-hentriacontane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC=CCCCCCC,3-decene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCC(C)c1ccccc1,2-phenyleicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC1CCC(C2CCC(CCCCCCCC)CC2)CC1,"4,4'-dioctyl-bicyclohexyl",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(CCCCCC)C1CCCCC1,7-cyclohexyl-eicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(C)(C)COC(=O)CCCCCCCCCCC(=O)OCC(C)(C)CCC,"dodecanedioic acid bis-(2,2-dimethyl-pentyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC=C(CCCC)c1ccccc1,5-phenyl-hexadec-5-ene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(C)COC(C)=O,acetic acid 2-methyl-pentadecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCc1ccc(C)cc1,1-(4-methyl-phenyl)-octadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)OC(=O)c1ccccc1C(=O)OC(C)CC,di-sec-butyl phthalate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC1CCCC1,octylcyclopentane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC(C)C,"1,2-benzenedicarboxylic acid, diisononyl ester",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCc1ccc(C)c(C)c1,"1,2-dimethyl-4-hexadecyl-benzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CCOC(=O)CCc1ccccc1)CC(C)(C)C,"3-phenyl-propionic acid 3,5,5-trimethyl-hexyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCC(CC)CC,3-ethyltetracosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCC)C1CCC2CCCCC2C1,decahydro-2-(1-propylnonyl)naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC=C(CCCC)c1ccccc1,5-phenyl-docos-5-ene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC1CCCC1,pentadecylcyclopentane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)(C)C1CCCCC1,"(1,1-dimethylpropyl)cyclohexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(CCCC)CCCCCCCCCC,11-butyl-docosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC1CCC(C(C)C2CCCCC2)CC1,1-cyclohexyl-1-(4-methylcyclohexyl)-ethane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=CCCCCCCCCCCCC,1-tetradecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(CC)COC(=O)CCCCCCCC(=O)OCC(CC)CC,nonanedioic acid bis-(2-ethyl-butyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(CCCCCCCC)C1CCCCC1,9-cyclohexyl-eicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(=O)OCC(CC)(COC(=O)CCCCCCC)COC(=O)CCCCCCC,"octanoic acid 2,2-bis-(octanoyloxymethyl)-butyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCOC(=O)CCCCC(=O)OCCCCCC,dihexyl adipate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(C1CCCCC1)C1CCCCC1,"1,1-dicyclohexyltridecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)C(=O)OCCCCCCCCCCOC(=O)C(CC)CCCC,"1,10-bis-(2-ethyl-hexanoyloxy)-decane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)CCCCCCCCC(=O)OCCCCCCCCCCCC,di-n-dodecyl sebacate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C,NIST_WebBook;LB2009
+CCCCCCCCCCCC=C(c1ccccc1)c1ccccc1,"1,1-diphenyl-1-tridecene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)(C)c1ccc2c(c1)CCC2,5-tert-butylindan,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(CCCCCCCCCC)C1CCCC2CCCCC21,11-(decahydro-naphthalen-1-yl)-docosane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)c1ccccc1-c1ccccc1,"2-(1-methylethyl)-1,1'-biphenyl",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(=O)OCCCC,butyl tridecanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(C)CC(C)CC(C)C,"2,4,6-trimethyloctadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOCCCC,butyl octyl ether,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC1CCCCC1CCCC,1-butyl-2-pentylcyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCC)c1ccc2ccccc2c1,2-(1-propylnonyl)naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CCOC(=O)CCCCCCCCC(=O)OCCC(C)CC(C)(C)C)CC(C)(C)C,"decanedioic acid bis-(3,5,5-trimethyl-hexyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)C1CCCC(C(=O)OCCCCCCCC)C1,"cyclohexane-1,3-dicarboxylic acid dioctyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(CC(=O)OCC(CC)CCCC)C(=O)OCC(CC)CCCC,2-dodecyl-butanedioic acid bis-(2-ethyl-hexyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC1CCCCC1,pentyl-cyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCc1cc2c(cc1CCCCC)CCCC2,"1,2,3,4-tetrahydro-6,7-dipentylnaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCc1cccc2ccccc12,1-propylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCC=C(CCCC)c1ccccc1,5-phenyl-hexacos-5-ene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(c1ccccc1)C1CCCCC1,1-cyclohexyl-1-phenylethane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=CCCC(C)CCCCCC,5-Methyl-1-undecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCCCCCCCC(=O)OC)OC(C)=O,10-acetoxy-octadecanoic acid methyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCC,docosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1cc(C)c(C(=O)c2ccccc2)c(C)c1,"2',4',6'-trimethylbenzophenone",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC(=O)OC,octadecanoic acid methyl ester,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCc1ccccc1,1-phenyleicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC1CCCC1,pentylcyclopentane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCc1ccc(CCCCCCC)cc1,"1,4-diheptylbenzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C1CCCCC1)C1CCCCC1,"1,1-dicyclohexylheptane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCOc1ccccc1,pentyloxy-benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(=O)OCCCC(CCCOC(=O)CCCCC)OC(=O)CCCCC,"1,4,7-tris-(hexanoyloxy)-heptane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC=C(CCCCCCCCCC)c1cc(C)ccc1C,"11-(2,5-dimethylphenyl)-10-heneicosene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCc1ccc(Cc2ccccc2)cc1,1-ethyl-4-(phenylmethyl)-benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+COCCOC(=O)c1ccccc1C(=O)OCCOC,"bis(2-methoxyethyl) 1,2-benzenedioate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCOC(=O)CCCCCCCCC(=O)OCCCCCCCCCC,didecyl sebacate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)(C)COC(=O)CCCCCCCCCCC(=O)OCC(C)(C)CCCCCC,"dodecanedioic acid bis-(2,2-dimethyl-octyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CCCC)C(CCCC)CCCC,"5,6-dibutyldecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(=O)OC(C)CC,1-methylpropyl hexadecanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCc1cccc(-c2ccccc2)c1,"3-ethyl-1,1'-biphenyl",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOCCC(=O)OCCCCCCCC,3-octyloxy-propionic acid octyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=C(C)CCCCCCCCCCCCCCCCC,2-methyl-1-nonadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCCCCCCC(=O)OCCOCCOC)OC(C)=O,12-acetoxy-octadecanoic acid 2-(2-methoxy-ethoxy)-ethyl ester,Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)Cc1cccc2ccccc12,1-(2-ethyl-hexyl)-naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCOCCOCCOCCOCCOCC,tetraethylene glycol diethyl ether,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(C1CCCCC1)C1CCCCC1,"1,1-dicyclohexylbutane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(CCC2CCCCC2)cc1,1-cyclohexyl-2-phenylethane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(CC(=O)OC)C(=O)OC,2-dodecyl-butanedioic acid dimethyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(CC)C1CCCCC1,3-cyclohexylhexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)(C)C1CCC(C(C)(C)C)CC1,"cis-1,4-Di-tert-butyl-cyclohexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC(CCC)C1CCCCC1,4-cyclohexyl-eicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(CCCC(CCCc2ccccc2)CCc2ccccc2)cc1,"1,7-diphenyl-4-phenethyl-heptane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCC=C(CCCC)c1ccc2ccccc2c1,5-naphthalen-2-yl-hexacos-5-ene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(CCCCCCCCC)CCCCCCCCC,10-nonyl-nonadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(C2CCCCC2)cc1,Cyclohexylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)CCCc1ccccc1,4-phenyl-butyric acid octyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(CCCCCCCCCC)c1cccc2ccccc12,11-naphthalen-1-yl-docosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(CCC)COC(=O)CCCCCCCCC(=O)OCCCCCCCCCCC(C)C,decanedioic acid isotridecyl ester 2-propylheptyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccc(C(C)C)cc1C1CCCC1,cyclopentyl-1-methyl-4-isopropyl-benzene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+OCCOCCOCCOCCOCCOCCO,"3,6,9,12,15-pentaoxaheptadecane-1,17-diol",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC,tridecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(CC(C)(C)C)OC(=O)CC(C)(C)C,"2,2-dimethyl-4-nonyl 3,3-dimethylbutanoate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCc1ccc(C(=O)c2ccccc2)cc1,4-ethylbenzophenone,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC1CCCC(OC(=O)CCCCC(=O)OC2CCCC(C)C2)C1,hexanedioic acid bis-(3-methyl-cyclohexyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCCCCCCc1ccccc1,"hexacosane, 1-phenyl-",Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCC)c1ccccc1,7-phenyltridecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)Cc1cccc(CC(=O)OCCCCCCCC)c1,m-phenylenediacetic acid dioctyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)(C)CCC(C)(C)CCC(C)(C)CCC(C)(C)CC,"3,3,6,6,9,9,12,12-octamethyl-tetradecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CC1CCC(CC(C)C)c2ccccc21,"1,4-bis(2-methylpropyl)-1,2,3,4-tetrahydronaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC1CCC(C2CCCCC2)CC1,"2-butyl-1,1'-bicyclohexyl",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1cc2c(cc1C1CCCC1)CCC2,5-cyclopentylindan,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCOC(=O)c1ccccc1C(=O)OCCCCC,di-n-amyl phthalate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(CCCCCCCCCCCC)CCCCCCCCCCCC,13-dodecylhexacosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1,"benzyl butyl 1,2-benzenedioate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)C1CCCCC1,2-cyclohexyloctane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccc(C)c(CC2CCCCC2)c1,"2-cyclohexylmethyl-1,4-dimethyl-benzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CCOC(=O)CCCCC(=O)OCCC(C)CC(C)(C)C)CC(C)(C)C,"hexanedioic acid, bis(3,5,5-trimethylhexyl)ester",Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(c1ccccc1)c1ccccc1,"1,1-diphenylnonane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(C1CCCCC1)C1CCCCC1,"1,1-dicyclohexyldecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccc(Cc2ccccc2)cc1C,"1,2-dimethyl-4-(phenylmethyl)-benzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCC1CC(C)CCC1C,"1,4-dimethyl-2-octadecyl-cyclohexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(=O)CCCC1CCC(C)CC1,4-(4-methyl-cyclohexyl)-butyric acid 2-ethyl-hexyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)CCC(=O)OCCCCCCCCCCCC,"butanedioic acid, didodecyl ester",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(C2CCCC(C3CCCCC3)C2)CC1,"1,3-dicyclohexylcyclohexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC=C(CCCCCCCCCC)CCCCCCCCCC,11-decyl-10-heneicosene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC1CCCC2CCCCC12,1-dodecyl-decahydro-naphthalene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccc(C(=O)c2ccccc2)cc1C,"3,4-dimethylbenzophenone",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCOC(=O)C=C(CC(=O)OCCC(C)C)C(=O)OCCC(C)C,"propene-1,2,3-tricarboxylic acid tris-(3-methyl-butyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)C1CC(C(C)C)C(C(C)C)CC1C(C)C,"1,2,4,5-tetraisopropyl-cyclohexane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCOCCOCCOCCO,triethylene glycol n-heptyl ether,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(=O)OC1CCCC(C)C1,dodecanoic acid 3-methyl-cyclohexyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCCCC)CC1CC(C)CC1C,"11-(2,4-dimethyl-cyclopentylmethyl)-heneicosane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)C(C)C(C)C(C)CCCCCC,"7,8,9,10-tetramethyl-hexadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCc1ccccc1,1-phenylpentadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(=O)CCC(C)CC(=O)OCCCC,3-methyl-hexanedioic acid dibutyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(C)c1ccc(CC)cc1,1-ethyl-4-(1-methylundecyl)benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(COCCCCCCCCCOCc2ccccc2)cc1,"1,9-bis-(benzyloxy)-nonane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCOC(=O)C1CCCCC1,ethyl cyclohexanecarboxylate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCc1ccc(CC)cc1,1-(4-ethyl-phenyl)-dodecane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCOCOCOCOCOCC,"3,5,7,9,11-pentaoxatridecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCOCCOCCO,"3,6-dioxa-1-pentadecanol",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCC(C)C1CCCCC1,2-cyclohexyl-eicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCc1ccc(CC)cc1,1-ethyl-4-octadecyl-benzene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+OCCOCCOCCOCCOCCO,pentaethylene glycol monobutyl ether,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(=O)OCC(COC(=O)CCCCCCCC)(COC(=O)CCCCC(C)C)COC(=O)CCCCC(C)C,pentaerythritol dinonanoate diisooctanoate,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCCCC)CC1CCCCC1,11-cyclohexylmethyl-heneicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(=O)OCC(CC)(CCCC)COC(=O)CCCCCCCC,"3,3-bis-(nonanoyloxymethyl)-heptane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(=O)OCC(C)(COC(=O)CCCCCCCC)COC(=O)CCCCCCCC,"2-methyl-1,3-bis-(nonanoyloxy)-2- nonanoyloxymethyl-propane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1cccc(C2CCCC2)c1C1CCCC1,dicyclopentyl-toluene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(CCCCCCCC)CCCCCCCC,9-octyl-eicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCC(C)CCC(CC(C)C)CC(C)C,"2,6,11-trimethyl-9-isobutyldodecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCCCC)CC(C)(C)C,"11-(2,2-dimethyl-propyl)-heneicosane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCC(CCC(C)C)CC1CC(C(C)C)CCC1C,4-isopropyl-1-methyl2-[5-methyl-2-(3-methyl-butyl)-hexyl]-cyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(c1ccccc1)c1ccccc1,"1,1-diphenyl-hexadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCCCCCCC(=O)OCCOc1ccccc1)OC(C)=O,12-acetoxy-octadecanoic acid 2-phenoxyethyl ester,Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)(C1CCCCC1)C(C)(CC)C1CCCCC1,"3,4-dicyclohexyl-3,4-dimethylhexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(C)(C)COC(=O)CCCCCCCCCCC(=O)OCC(C)(C)CCCC,"dodecanedioic acid bis-(2,2-dimethyl-hexyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(CCCCCC)CCCCCC,7-hexyleicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(CCC)CCCCCC(CCC)CCC,"4,10-dipropyl-tridecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC1CCCC2CCC(CCCC)CC12,7-butyl-1-hexyl-decahydro-naphthalene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(C2CCCCC2C2CCCCC2)CC1,o-tercyclohexyl,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(CC)(CCC)CCC,4-ethyl-4-propylheptane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)(C)C(=O)OCC(C)(C)COC(=O)C(C)(C)CCCCCC,"2,2-dimethyl-octanoic acid 3-(2,2-dimethyloctanoyloxy)-2,2-dimethyl-propyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCCc1ccc2c(c1)CCCC2,"6-docosyl-1,2,3,4-tetrahydro-naphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCC(C)C1CCc2ccccc21,"2,3-dihydro-1-(1,5-dimethylhexyl)-1H-indene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc2c(c1)CCCC2C1CCCCC1,cyclohexyl-tetrahydro-naphthalene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC(C)C(C)C,"2,3-dimethylnonadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)CC(Cc1ccc(C)cc1)C(=O)OCCCCCCCC,2-(4-methyl-benzyl)-butanedioic acid dioctyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCOC(=O)CCC(=O)OCCCCC,dipentyl butanedioate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC1CC2CCCCC2CC1CCCC,2-butyl-3-hexyldecalin,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCc1ccccc1,tetradecylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCOC(=O)CC(Cc1ccc(C(C)(C)C)cc1)C(=O)OCCC,2-(4-tert-butyl-benzyl)-butanedioic acid dipropyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC1CCCC2CCCCC12,decahydro-1-pentadecylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCOC(=O)C=Cc1ccccc1,trans-3-phenyl-prop-2-enoic acid ethyl ester,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC(=O)OCCCCCCCCCC,octadecanoic acid decyl ester,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1cc2c(cc1C1CCCCC1)CCC2,5-cyclohexyl-indan,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCCCCCCC)CCCCC(CCCCCCCC)CCCCCCCC,"9,14-dioctyl-docosane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC,dihexyl phthalate,Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(=O)OCC(CC)(COC(=O)CCCCCCCC)COC(=O)CCCCCCCC,"nonanoic acid 2,2-bis-(nonanoyloxymethyl)-butyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCC(CCC(C)C)CCC(CCC(C)C)CCC(C)C,"2,11-dimethyl-5,8-diisoamyldodecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)COC(=O)CCCCCCCC(=O)OCC(C)C,diisobutyl azelate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccc(C(C)C)c2ccccc12,1-methyl-3-(1-methylethyl)naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC=C(c1ccccc1)c1ccccc1,"1,1-diphenyl-1-octadecene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CCOC(=O)CCCC(=O)OCCC(C)CC(C)(C)C)CC(C)(C)C,"pentanedioic acid bis-(3,5,5-trimethyl-hexyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCOC(=O)c1cccc(C(=O)OCCCCC)c1,di-n-pentyl isophthalate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCOCCOCCOCCOCC,"1,2-bis(2-ethoxyethoxy)ethane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(CCCC)c1ccccc1,5-phenyleicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCc1cc2ccccc2cc1CCCC,2-butyl-3-hexylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(CCCCC)CCCCCC(CCCCC)CCCCC,"6,12-dipentyl-heptadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCC1CCCCC1)CCCC1CCCCC1,1-cyclohexyl-4-(3-cyclohexyl-propyl)-decane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCc1cc2c(cc1CCCCCC)CCCC2,"6,7-dihexyl-1,2,3,4-tetrahydronaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCC)COC(C)=O,acetic acid 2-butyl-dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCC(C)CCCCC(C)CCCC(C)C,"2,6,11,15-tetramethylhexadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC=C(CCCC)c1ccc2c(c1)CCCC2,"6-(1-butyl-octadec-1-enyl)-1,2,3,4-tetrahydro-naphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(=O)OC(C)CCCCCCCCC,1-methyldecyl dodecanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCOCCCCCCOCCCCCCC,"1,6-bis-(heptyloxy)-hexane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC(CC)c1ccccc1,3-phenyleicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCC)c1ccc2ccccc2c1,2-(1-propylheptyl)naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC1CC(C)CCC1C,"1,4-dimethyl-2-decyl-cyclohexane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCC(=O)OCCCC,butyl pentadecanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1cccc(Cc2ccccc2)c1,1-methyl-3-(phenylmethyl)-benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(Cc2cccc3ccccc23)cc1,1-benzyl-naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOCCOCCOCCOCCCC,"5,8,11,14-tetraoxaoctadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCOC(=O)/C=C\C(=O)OCCCCCCC,diheptyl maleate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(C)C,2-methyltetradecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(CCCCC)COC(=O)CC,2-pentylnonyl propanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(CCC(CCc2ccccc2)CCc2ccccc2)cc1,"1,5-diphenyl-3-(2-phenylethyl)pentane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCc1ccccc1,dodecylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(CCC)CCC,4-propyl-heptadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(C)c1ccc(OC)cc1,1-(1-butoxyethyl)-4-methoxybenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCc1ccccc1)CCc1ccccc1,1-phenyl-3-phenethyl-undecane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CC1CCCCC1C1CCCCC1,2-isobutyl-bicyclohexyl,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC1CCC2CCCCC2C1,decahydro-2-propylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(=O)OCCC(C)CCOC(=O)CCCCC,"1,5-bis-(hexanoyloxy)-3-methyl-pentane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(C)=O,undecan-2-one,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOCCOCCOCCCC,"5,8,11-trioxapentadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)CCC(C)OC(=O)CCCCCCCCC(=O)OC(C)CCC(CC)CCCC,decanedioic acid bis-(4-ethyl-1-methyl-octyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(Cc1ccccc1)Cc1ccccc1,"2-methyl-1,3-diphenyl-propane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC1CCC(C2CCC(CCCCCCC)CC2)CC1,"bicyclohexyl, 4,4'-diheptyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCc1ccccc1,heptylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(=O)CCCCCCC(=O)OCCCC,dibutyl octanedioate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC=C(CCCCCCCCCC)c1ccccc1,11-phenyl-10-heneicosene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCCCCCCC)CCCC1CCCC1,1-cyclopentyl-4-octyldodecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C(Cc1ccccc1)=C(CCc1ccccc1)CCc1ccccc1,"1,5-diphenyl-3-(2-phenylethyl)-2-pentene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCCCC)C1CCCC1,11-cyclopentylhenicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(=Cc1cccc2ccccc12)CC(C)C,"1-(2,4-dimethyl-1-pentenyl)naphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc2cc(C3CCCCC3)ccc2c1,2-cyclohexylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCC(CCCC)c1ccccc1,5-phenyl-hexacosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)C1CCC(CC2CCCCC2)CC1,1-cyclohexylmethyl-4-isopropyl-cyclohexane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)C=CC(C)CCCCCC,"7,10-dimethyl-8-hexadecene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(=O)C1CCCCC1,cyclohexanecarboxylic acid 2-ethyl-hexyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(CCCC2CCCCC2)CC1,"1,3-dicyclohexylpropane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCCCCCCCCOC(=O)CCCCCCCCC(=O)OCCCCCCCC(C)C,decanedioic acid isotridecyl ester isodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC1CCCC1,1-cyclopentylhexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(=O)OC(C)CCCCCC,1-methylheptyl tetradecanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)COC(=O)c1cccc(C(=O)OCC(C)C)c1,diisobutyl isophthalate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCc1ccc2c(c1)CCC2,5-heptylindan,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccc(CC(CC(=O)OCCC(C)C)C(=O)OCCC(C)C)cc1,2-(4-methyl-benzyl)-butanedioic acid bis-(3-methyl-butyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCC=C(Cc1ccccc1)Cc1ccccc1,1-phenyl-2-benzyl-2-heptadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOCCOC(=O)CCCCCCCC(=O)OCCOCCCC,nonanedioic acid bis-(2-butoxy-ethyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCc1cccc2ccc(CCCC)cc12,7-butyl-1-hexyl-naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCc1ccc2ccccc2c1,2-propylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCC,nonadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)COC(=O)c1ccc(C(=O)OCC(C)C)cc1,diisobutyl terephthalate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(=O)c1ccc(C(=O)OCCCC)cc1,"dibutyl benzene-1,4-dicarboxylate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCCCCC)COC(C)=O,acetic acid 2-hexyl-decyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)C1CCCCC1C1CCCCC1,2-sec-butyl-bicyclohexyl,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCO,1-dodecanol,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)C1CCCc2ccccc21,"naphthalene, 1,2,3,4-tetrahydro-6-isopropyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)(C)CC(c1ccccc1)c1ccccc1,"3,3-dimethyl-1,1-diphenylbutane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCOC(C)=O,acetic acid hexadecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCOC(=O)CC(CC(=O)OCCCCCC)C(=O)OCCCCCC,"propane-1,2,3-tricarboxylic acid trihexyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCc1ccccc1,hexylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(C1CCCCC1)C1CCCCC1,"1,1-dicyclohexyl-hexadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC/C=C(\C)CCCCC,6-methyl-5-undecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(=CCCc1ccccc1)CCCCCC,(4-hexyl-3-decenyl)benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCCCC)C1CCCC2CCCCC21,11-(decahydro-naphthalen-1-yl)-heneicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(C)CCCCCCCC,9-methylheptadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCc1ccccc1Cc1ccccc1,1-benzyl-2-butyl-benzene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC/C=C\CCCCCCCC(=O)OCC,cis-octadec-9-enoic acid ethyl ester,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCc1ccc(CCCCCCCCCC)cc1,"1,4-didecylbenzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(=O)OCCCC(CCC(C)OC(=O)CCCCCCCC)OC(=O)CCCCCCCC,"1,4,7-tris-(nonanoyloxy)-octane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(=O)OCC(CC)CCCC,2-ethylhexyl laurate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC1CCC(CCCCCCCC)CC1,1-dodecyl-4-octylcyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCC)c1ccc2ccccc2c1,2-(1-pentylheptyl)naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CC(C)OC(=O)CCCCC(=O)OC(C)CC(C)C,"hexanedioic acid bis-(1,3-dimethyl-butyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)=C(c1cccc2ccccc12)C(C)C,1-[2-methyl-1-(1-methylethyl)-1-propenyl]naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC1CCCc2ccccc21,"1-octyl-1,2,3,4-tetrahydro-naphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)Cc1ccc(C)cc1,(4-methyl-phenyl)-acetic acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(C2CCCC2)C1,"1,1'-bicyclopentyl",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(CCCC)C1CCCCC1,5-cyclohexyl-eicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC1CC(C)C(C)CC1C,"1-hexadecyl-2,4,5-trimethylcyclohexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(CCCC2CCCC2)cc1,1-cyclopentyl-3-phenylpropane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(=O)CC(Cc1cccc(C)c1)C(=O)OCCCC,2-(3-methyl-benzyl)-butanedioic acid dibutyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCCCCCCC(=O)OC(C)C)OC(=O)CC,12-propionyloxy-octadecanoic acid isopropyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(C)(CC)CCCC,5-ethyl-5-methyldecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCOc1ccccc1OC,1-hexadecyloxy-2-methoxybenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCCc1ccccc1,1-phenyldocosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(=O)OCCCCCCC,heptyl tetradecanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CC(C)(c1ccc(C(C)(C)C)cc1)C(C)(CC(C)C)c1ccc(C(C)(C)C)cc1,"2,4,5,7-tetramethyl-4,5-bis-(4-tert-butylphenyl)octane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(CC(CC)CC)CC(CC)CC,3-ethyl-5-(2-ethylbutyl)octadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)CC1CCC(CC(CC)CCCC)C2CCCCC12,"1,4-bis(2-ethylhexyl)decahydronaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(CCCCCCC)COC(C)=O,acetic acid 2-heptyl-nonyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(Cc1ccccc1)Cc1ccccc1,"butane, 2-benzyl-1-phenyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)c1ccc(C)cc1,4-methyl-benzoic acid octyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)COC(=O)c1ccccc1C(=O)OCC(C)C,"diisobutyl 1,2-benzenedioate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(COCc2ccccc2)cc1,dibenzyl ether,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)(c1ccccc1)c1ccccc1,"2,2-diphenylpropane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC1CCC2CCCCC2C1,2-octyl-decahydro-naphthalene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)CCCCCCCCC(=O)OCCCCCCCC,decanedioic acid dioctyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCC1CCCC1,tetradecylcyclopentane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(=O)OCC(CC)(COC(=O)CCCCC)COC(=O)CCCCC,"hexanoic acid 2,2-bis-(hexanoyloxymethyl)-butyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCOC(=O)c1ccc(C(=O)OCCCCCC)cc1,"1,4-benzenedicarboxylic acid, dihexyl ester",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC(CCCC)CC1CCC2CCCCC2C1,2-(2-butyloctadecyl)decahydronaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(=O)OCC,tetradecanoic acid ethyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(C)CCCCC,"octadecane, 6-methyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC1CCCC2C(C)CCC(C)C12,"1,4-dimethyl-5-octyldecahydronaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC(=O)OCCCCC,octadecanoic acid pentyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC=C(CCCC)CCCCCCCCCCCCCCC,5-butyl-eicos-4-ene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(=O)OCCCCCCC,heptyl decanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(CC)c1ccc2ccccc2c1,2-(1-ethylhexyl)naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(Cc1ccccc1)Cc1ccccc1,2-benzyl-1-phenyloctane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C(CCc1ccccc1)=C(CCCc1ccccc1)CCCc1ccccc1,"1,7-diphenyl-4-(3-phenylpropyl)-3-heptene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCC)C1CCC(C2CCCCC2)CC1,"4-(1-propylheptyl)-1,1'-bicyclohexyl",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCC)CCCCCCCCCC,11-pentylhenicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCOCCCCOCCCCCCCCC,"10,15-dioxatetracosane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC1CCCCC1,heptylcyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CC1CCCCC1)CC1CCCCC1,"1,3-dicyclohexyl-2-methyl-propane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC(=O)OCC,octadecanoic acid ethyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC1CCCC1CCCCCCCC,"1,2-dioctylcyclopentane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCC1CCCCC1,1-cyclohexyloctadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(CCCC)CCCCCC,7-butyl-docosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCc1ccc2ccccc2c1,2-decylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOCCOCCOCCOCCO,"3,6,9,12-tetraoxahexadecan-1-ol",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(CC)OC(=O)CCCCCCCC(=O)OC(CC)CC,nonanedioic acid bis-(1-ethyl-propyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCC(C)(C)C1CCCCC1,"2-cyclohexyl-2,5-dimethyl-hexane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(c1ccccc1)c1ccccc1,"1,1-diphenyl-heptane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(C)c1ccccc1,1-phenylnonane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCOC(=O)C=C(CC(=O)OCCCCC)C(=O)OCCCCC,"propene-1,2,3-tricarboxylic acid tripentyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC1CCCCC1C,1-methyl-2-pentylcyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(=O)OCC(COC(=O)CCCCCC)(COC(=O)CCCCCC)COC(=O)CCCCCC,pentaerythritol tetraheptanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCOC,methyl nonadecyl ether,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)(C)CCCC(CCCC(C)(C)C)CCCC(C)(C)C,"2,2,10,10-tetramethyl-6-(4,4-dimethylpentyl)undecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCCCC)c1ccccc1,11-phenyl-heneicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC2(CC1)CCCCC2,spiro[5.5]undecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)CCCCC(=O)OCCCCCCCC,hexanedioic acid dioctyl ester,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)CCCC1CCCCC1,4-cyclohexyl-butyric acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(O)C=CCO,"2-dodecene-1,4-diol",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC=CCCCCC,5-undecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)C1CCCc2ccccc21,"Naphthalene, 6-butyl-1,2,3,4-tetrahydro-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(C)(C)COC(=O)CCCCCCCCC(=O)OCC(C)(C)CCCC,"decanedioic acid bis-(2,2-dimethyl-hexyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=CCCCCCCCCCCCCCCCCC,1-nonadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1cccc(CC(CC(=O)OC(C)C)C(=O)OC(C)C)c1,2-(3-methyl-benzyl)-butanedioic acid diisopropyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC1CCC(CCCCCC)CC1,"1,4-dihexyl-cyclohexane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(CC)CC1CCCCC1,1-butyl-2-ethylcyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(C)(C)COC(=O)CCCCC(=O)OCC(C)(C)CCCCCCC,"hexanedioic acid bis-(2,2-dimethyl-nonyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(=O)C[C@H]1CCC[C@@H](CC(=O)OCC(CC)CCCC)C1,"cis-cyclohexane-1,3-diyl-diacetic acid bis-(2-ethyl-hexyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)CCCCCCCCC(CC)CCCC,"5,14-diethyloctadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CCCCC(C)CC(C)(C)C)CC(C)(C)C,"dodecane, 2,2,4,9,11,11-hexamethyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCOC(=O)CCC,hexadecyl butanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCOC(=O)CCCCCCCCCCCCCCCCC,octadecanoic acid octadecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC[C@H]1CC[C@@H](CC2CCCCC2)CC1,cis-1-ethyl-4-cyclohexylmethyl-cyclohexane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC1CCCc2ccccc21,monohexadecyl-tetrahydro-naphthalene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(CCCCCCCCCC)c1cccc2c1CCCC2,"11-(5,6,7,8-tetrahydro-naphthalen-1-yl)-docosane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)CCC(CC(C)C)OC(=O)CCCC(=O)OC(CCC(CC)CCCC)CC(C)C,pentanedioic acid bis-(4-ethyl-1-isobutyl-octyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CC[C@H]2CCCC[C@H]2C1,cis-decahydro-naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(CCC)CCCCCCCCCC=Cc1ccccc1,1-phenyl-12-propyl-1-pentadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(CCC(C)C)(CCC(C)C)c1ccccc1,[1-ethyl-4-methyl-1-(3-methylbutyl)pentyl]benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCc1cccc(CCCCCCC)c1CCCCCCC,triheptyl-benzene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCCCC)c1cccc2c1CCCC2,"11-(5,6,7,8-tetrahydro-naphthalen-1-yl)-heneicosane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(C(C2CCCC2)C2CCCC2)C1,tricyclopentylmethane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCC1CCCCC1,"tetradecane, 1-cyclohexyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCCCCCCC(=O)OCC(CC)CCCC)OC(=O)C(CC)CC,12-(2-ethyl-butyryloxy)-octadecanoic acid 2-ethyl-hexyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC1CCCCC1,1-cyclohexyl-hexadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(CCCCCC)CCCCCC,7-hexyl-octdecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(CCC(CCCC2CCCC2)CCCC2CCCC2)CC1,"4-(2-cyclohexyl-ethyl)-1,7-dicyclopentyl-heptane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCOC(=O)C=C(CC(=O)OCCCCCC)C(=O)OCCCCCC,"propene-1,2,3-tricarboxylic acid trihexyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCC)C(CCC)CCCCCCCCCC,"11,12-dipropyldocosane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCCCCCCC(=O)OCC(CC)CCCC)OC(=O)CCC,12-butyryloxy-octadecanoic acid 2-ethyl-hexyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=C(C)CCCCCCCCC(=C)C,"2,11-dimethyl-1,11-dodecadiene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)c1ccc(CC(C)c2ccc(C(C)C)cc2)cc1,"1,2-bis[4-(1-methylethyl)phenyl]propane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(=O)OCC(C)C(CC)OC(=O)CCCCCCCC,"2-methyl-1,3-bis-(nonanoyloxy)-pentane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC(=O)OC(C)(C)C,"1,1-dimethylethyl octadecanoate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)CCCC(C)(O)CCCC(C)C,"2,6,10-trimethyl-6-dodecanol",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C(CC1CCCCC1)=C(CCC1CCCCC1)CCC1CCCCC1,"1,5-dicyclohexyl-3-(2-cyclohexylethyl)-2-pentene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CC=C(CCC(C)CC(C)(C)C)CCC(C)CC(C)(C)C)CC(C)(C)C,"2,2,4,10,12,12-hexamethyl-7-(3,5,5-trimethylhexyl)-6-tridecene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC1CCCc2ccc(CCCC)cc21,"naphthalene, 7-butyl-1-hexyl-1,2,3,4-tetrahydro-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCOC(=O)c1cccc(C(=O)OCCC(C)C)c1,"bis(3-methylbutyl) 1,3-benzenedioate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC1CCCC1,tridecylcyclopentane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(=CCCCCCCC=C(CC)CCCC)CC,"5,14-diethyl-5,13-octadecadiene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(CC(=O)OCCC(C)C)C(=O)OCCC(C)C,2-dodecyl-butanedioic acid bis-(3-methyl-butyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCOC(=O)CCCCCCCCC(=O)OCCCCCCCCCCC(C)C,decanedioic acid isotridecyl ester tetradecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)CC(Cc1cccc(C)c1)C(=O)OCCCCCCCC,2-(3-methyl-benzyl)-butanedioic acid dioctyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(CC(=O)OCC)C(=O)OCC,dodecyl-butanedioic acid diethyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(CCCCCCCC)c1ccc(C)cc1,1-methyl-4-(1-octyldecyl)benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCc1ccccc1,butylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCc1cccc2c1CCCC2,"5-pentadecyl-1,2,3,4-tetrahydronaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC,"5,8,11,14-eicosatetraenoic acid, methyl ester",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCc1c(C)cc(C)cc1C,"1,3,5-trimethyl-2-decyl-benzene",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCC1CCC(C(C)CCCC(C)C)CC1,"1-(1,5-dimethylhexyl)-4-(4-methylpentyl)cyclohexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(CCCCCCC)c1ccc(C)cc1,8-(4-methyl-phenyl)-nonadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(C2CCC(C3CCCCC3)CC2)CC1,"1,4-dicyclohexylcyclohexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOCC(C)OCC(C)OCC(C)OCCCC,"6,9,12-trimethyl-5,8,11,14-tetraoxaoctadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(CCCC)CCCCCCCC,9-butyl-docosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCc1ccc(C(C)CCC)cc1C(C)CCC,"1-butyl-2,4-bis(1-methylbutyl)benzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCOC(C)=O,acetic acid octadecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)CC(C)C,"2,4-dimethyldecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCc1cc(C(C)C)ccc1C,1-(5-isopropyl-2-methyl-phenyl)-dodecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(CO)CCCCCCC,2-heptyl-1-nonanol,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCc1ccc(C(C)c2ccccc2)cc1,1-ethyl-4-(1-phenylethyl)benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCc1ccccc1)CCCC1CCCCC1,[4-(3-cyclohexyl-propyl)-decyl]-benzene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCOC(=O)c1ccc(C(=O)OCC)cc1,"diethyl 1,4-benzenedioate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC1(COC(=O)CCCCCCCCC(=O)OCC2(C)CCCCC2)CCCCC1,decanedioic acid bis-(1-methylcyclohexylmethyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(=O)O.CCCCCCC(O)CCCCCCCCCCC(=O)Oc1ccccc1,"octadecanoic acid, 12-hydroxy-, phenyl ester, acetate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)c1ccc(OC)c(C(=O)OCCCCCCCC)c1,4-methoxy-isophthalic acid dioctyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC(=O)OCC(C)C,2-methylpropyl octadecanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CC(C)(C)C(C)(C)C)C(C)(C)C,"2,2,3,3,5,6,6-heptamethylheptane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(CCC)CCCCCCC,8-propylpentadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(C)(C)COC(=O)CCCCCCCCC(=O)OCC(C)(C)CCCCC,"decanedioic acid bis-(2,2-dimethyl-heptyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC=C(C)CCCCCC,7-methyl-6-tridecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC1CCCc2ccccc21,"1-heptyl-1,2,3,4-tetrahydronaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCc1ccc(CCCCCC)cc1,"1,4-di-n-hexylbenzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCc1ccccc1,"benzene, heneicosyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(=O)OCC(COC(=O)CCCCC)(COC(=O)CCCCC)COC(=O)C1CCCCC1,pentaerythritol trihexanoate cyclohexanecarboxylate,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(CC(=O)OC(C)C)C(=O)OC(C)C,2-dodecyl-butanedioic acid diisopropyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(C)(C)CCCCCCC,"8,8-dimethyl-pentadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)(C)CCC(C)(C)CC,"3,3,6,6-tetramethyloctane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC(CC)C1CCCCC1,3-cyclohexyl-eicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC=C(CCCCCCCCCC)c1cccc2ccccc12,11-(1-naphthyl)-10-henicosene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC=C(CCCCCC)CCCCCC,7-hexyl-7-pentadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccccc1C1CCCCC1,"toluene, p-cyclohexyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CCc1ccccc1)c1ccccc1,"1,3-diphenylbutane",Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(CC(C)C)CC(C)C,4-isobutyl-2-methylnonadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(Cc1ccccc1)Cc1ccccc1,2-benzyl-1-phenylheptadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCC)(CCCC)CCCC,"5,5-dibutylundecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCc1ccc2cc(CCCCCC)ccc2c1,"2,6-dihexylnaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC1CCCc2ccccc21,"1-dodecyl-1,2,3,4-tetrahydronaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC=C(CC)CCCCCCCCC(=CC)CC,"3,12-diethyl-tetradeca-2,12-diene",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=CCCCCCCCCCCCCC,pentadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(=O)OC1CCCCC1,dodecanoic acid cyclohexyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC1C(C)(C)c2ccc(C(C)(C)C)cc2C1(C)C,"5-(1,1-dimethylethyl)-1,1,2,3,3-pentamethylindan",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(CC(=O)OCCCC)C(=O)OCCCC,dodecyl-butanedioic acid dibutyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCC)CCCCCC,7-hexyl-tridecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCOCCOCCOCCO,"ethanol, 2-[2-[2-(pentyloxy)ethoxy]ethoxy]-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(CC(=O)OCCCCCCCC)C(=O)OCCCCCCCC,2-dodecyl-butanedioic acid dioctyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC1CCC(C(C)(C)C)CC1C,"1,2-dimethyl-4-(tert-butyl)-cyclohexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)c1cccc2ccccc12,1-(1-methylethyl)naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(CCCCC)CCCCC(CCCCC)CCCCC,"6,11-dipentylhexadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCc1ccc2c(c1)CCCC2,"6-heptyl-1,2,3,4-tetrahydronaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCCCC,tetracosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCOC(=O)CCCCCCCCC(=O)OCC1(C)CCCCC1,decanedioic acid decyl ester 1-methylcyclohexylmethyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(C)CCC(C)OCCC1CCCCC1,2-(2-cyclohexylethoxy)-5-(2-ethylhexyloxy)hexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC1CCC(C2CCCCC2)CC1,4-heptyl-bicyclohexyl,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccccc1Cc1ccccc1,1-methyl-2-(phenylmethyl)benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)C,Squalane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCOC(=O)CCCCCCCCC(=O)OCC1(C)CCCCC1,decanedioic acid octadecyl ester 1-methylcyclohexylmethyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)=CCCC(C)CC=Cc1ccccc1,"(4,8-dimethyl-1,7-nonadienyl)benzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(C)(C)COC(=O)CCCCCCCCC(=O)OCC(C)(C)CCC,"decanedioic acid bis-(2,2-dimethyl-pentyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC1CCCC2CCCCC12,1-undecyl-decahydro-naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCC1CCCCC1,1-cyclohexyl-eicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)CCC1CCCCC1,3-cyclohexyl-propionic acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCC(=O)OCC,"pentadecanoic acid, ethyl ester",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCC(C)(C)CC(C)(C)CCC(C)C,"2,5,5,7,7,10-hexamethylundecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCCC,phthalic acid didodecyl ester,Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)[C@H]1CC[C@@H](C)CC1,cis-4-methyl-cyclohexanecarboxylic acid octyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCc1ccccc1,pentylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)(C)CCC=C(CCCC(C)(C)C)CCCC(C)(C)C,"2,2,10,10-tetramethyl-6-(4,4-dimethylpentyl)-5-undecene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC1CCC(C)C(C(C)C2CCCCC2)C1,"1-cyclohexyl-1-(2,5-dimethyl-cyclohexyl)-ethane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(=O)CCCCCCCCC(=O)OCCCC,dibutyl decanedioate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)C1CCCC1,cyclopentanecarboxylic acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCc1ccc2ccccc2c1,2-dodecyl-naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCc1ccccc1)CCCc1ccccc1,"4-hexyl-1,7-diphenyl-heptane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC=C(CCCCCCCC)CCCCCCCC,9-octyl-8-heptadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(=CCCC=C(CCCC)CCCC)CCCC,"5,10-dibutyl-5,9-tetradecadiene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCCCCCc1ccccc1,"benzene, pentacosyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC=CCCCCCC,6-tridecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC1CCCCC1,hexylcyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)CC(C)(CC)C1CCCCC1,"3,5-dimethyl-5-cyclohexylheptane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCc1cc2c(cc1CCCC)CCCC2,"1,2,3,4-tetrahydro-6-butyl-7-hexyl-naphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCOC(=O)CCCCCCCC(=O)OCCC(C)C,nonanedioic acid bis-(3-methyl-butyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(CCC)CCC,4-propyl-nonadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCc1ccccc1,nonacosylbenzene,Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC1CCc2ccccc21,"1-hexadecyl-2,3-dihydro-1H-indene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCOC(=O)CCCCC,hexanoic acid decyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(=O)CC(Cc1ccc(C(C)(C)C)cc1)C(=O)OCCCC,2-(4-tert-butyl-benzyl)-butanedioic acid dibutyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(=O)OCc1ccccc1,dodecanoic acid benzyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1cccc2ccccc12,1-Methyl Napthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(CCCC(CCCC2CCCCC2)CCC2CCCCC2)CC1,"1,7-dicyclohexyl-4-(2-cyclohexylethyl)heptane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(CCCC(CCCc2ccccc2)CCCc2ccccc2)cc1,"1,7-diphenyl-4-(3-phenyl-propyl)-heptane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(=O)OCC(CC)(COC(=O)CCCCCCCCC)COC(=O)CCCCCCCCC,"1-decanoyloxy-2,2-bis-(decanoyloxymethyl)-butane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC1(COC(=O)CCCCCCCC(=O)OCC2(C)CCCCC2)CCCCC1,nonanedioic acid bis-(1-methylcyclohexylmethyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCCCCCCC)C1CCCCC1,9-cyclohexylheptadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCC=Cc1c(C)cc(C)cc1C,"1-(1-hexadecenyl)-2,4,6-trimethylbenzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCOCCOCCOCCCCCC,"7,10,13-trioxanonadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCCCC)Cc1ccccc1,11-benzylhenicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCC(=O)OC,methyl docosanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)CCCC,5-methylundecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCCCCCCC(=O)OCCOC)OC(C)=O,12-acetoxy-octadecanoic acid 2-methoxy-ethyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCCCCCCC(=O)OCC(CC)CC)OC(C)=O,12-acetoxy-octadecanoic acid 2-ethyl-butyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(=O)CC(Cc1ccc(C)cc1)C(=O)OCC(CC)CCCC,2-(4-methyl-benzyl)-butanedioic acid bis-(2-ethyl-hexyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC=CCC=CCC=CCC=CCC=CCCCC(=O)OC,"methyl Z,Z,Z,Z,Z 5,8,11,14,17-eicosapentaeneoate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCc1cc2c(cc1C)CCC(C)C2,"1,2,3,4-tetrahydro-2,6-dimethyl-7-octyl-naphthalene",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC1CCC(OC(=O)CCCCCCCCC(=O)OC2CCC(C)CC2)CC1,decanedioic acid bis-(4-methyl-cyclohexyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC/C=C\CCCCCCCC(=O)OC,cis-octadec-9-enoic acid methyl ester,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCC(C)(C)C,"2,2-dimethyl-docosane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CCC1CCCCC1)C1CCCCC1,"1,3-dicyclohexylbutane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)C(C(C)C)C1CCCCC1,"2,4-dimethyl-3-cyclohexylpentane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCc1ccccc1CCCC,1-butyl-2-hexylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(C)(C)c1ccccc1,"(1,1-dimethylpentyl)benzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(=O)OCCCCCCCCCC,dodecanoic acid decyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc2c(C3CCCCC3)cccc2c1,"naphthalene, 1-cyclohexyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(CCC(C)C)CCC(CCC(C)C)CCC(C)C,"1,11-dimethyl-5,8-di(3-methylbutyl)dodecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)COC(=O)CCCCC(=O)OCC(C)C,"hexanedioic acid, bis(2-methylpropyl) ester",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+COCC(C)OCC(C)OCC(C)OC,tripropylene glycol dimethyl ether,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(=O)OC1CCC(C)CC1,dodecanoic acid 4-methyl-cyclohexyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(CC)CC,3-ethyloctadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC(CCC)c1ccccc1,4-phenyleicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCOCCOCCOCCO,triethylene glycol monohexyl ether,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(c1ccccc1)c1ccccc1,"1,1-diphenyltetradecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCCCCCCC(=O)OCC(CC)CCCC)C(=O)OCC(CC)CCCC,2-octyl-decanedioic acid bis-(2-ethyl-hexyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCC)CC(C)(CCCCCCCC)CCCCCCCCCC,"13-methyl-11,13-dioctyltricosane",Density_100C;Density_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(=O)OCC(C)(C)C(OC(=O)CCCCCCCCC)C(C)C,"1,3-bis-(decanoyloxy)-2,2,4-trimethyl-pentane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(C)C,2-methyl-heptadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(=O)OCCCCCCC,heptyl hexadecanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(O)(CCCCCCCC(=O)OCC(C)C)C(=O)OCC(C)C,2-hydroxy-2-octyl-decanedioic acid diisobutyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCC(COC(=O)CCCCC(=O)OCC(CCC(C)C)C(C)C)C(C)C,hexanedioic acid bis-(2-isopropyl-5-methyl-hexyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCc1ccccc1-c1ccccc1,"2-butyl-1,1'-biphenyl",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(CC)CCCCCCCCC(CC)CC,"3,12-diethyl-tetradecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CCCOCCc1ccccc1)CCOCCc1ccccc1,"3-methyl-1,6-bis-(phenethyloxy)-hexane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(C2CCCC2)(C2CCCC2)CC1,dicyclopentyl-cyclohexane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C1CCCCC1)C1CCCCC1,"1,1-dicyclohexyl-propane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC1(CCC2(CC)CCCCC2)CCCCC1,"1,2-bis-(1-ethyl-cyclohexyl)-ethane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC=C(CCC)CCCCCCC,8-propyl-7-pentadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCOC(=O)CCC(=O)OCCCCCCCCC,dinonyl butanedioate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC,undecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CC)(CC)C(=O)OC(CC)(CC)CC,"1,1-diethylpropyl 2,2-diethyldecanoate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)c1ccccc1C1CCCC1,cyclopentyl-isopropyl-benzene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCc1ccc(C2CCC(CCC)CC2)cc1,1-pentyl-4-(4-propylcyclohexyl)-benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(C)COC(=O)CCCCC(=O)OCC(C)CCC,hexanedioic acid bis-(2-methyl-pentyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=CC(CCC=CCCCCC)CCCC,5-ethenyl-8-tetradecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1cc2c(cc1CCC1CCCCC1)CCCC2,"6-(2-cyclohexylethyl)-1,2,3,4-tetrahydronaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(=CC(C)(C)C(C)(C)C)C(C)(C)C,"3-Heptene, 2,2,3,5,5,6,6-heptamethyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+O=C(c1ccccc1)c1ccccc1,benzophenone,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCOC(=O)c1ccc(C(=O)OCCCCCCC)cc1,diheptyl terephthalate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CC,bis(2-ethylbutyl) phthalate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCCCCCCC(=O)OCCCC)OC(C)=O,12-acetoxy-octadecanoic acid butyl ester,Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(CCCCCCCC)CCCCCCCC,9-octyldocosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(=CCCCCCCC=C(CCCC)c1ccccc1)c1ccccc1,"5,14-diphenyl-octadeca-5,13-diene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC,octadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)c1cccc(C)c1,3-methyl-benzoic acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCc1ccccc1Cc1ccccc1,1-ethyl-2-(phenylmethyl)-benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(=O)CCCCC(=O)OCC(CC)CCCC,bis(2-ethylhexyl) adipate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)Cc1ccc(CC)cc1,(4-ethyl-phenyl)-acetic acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)(C)CCCC(C)CCCC(C)(C)CC,"3,3,7,11,11-pentamethyltridecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)Cc1cccc2c1CCCC2,"5-isobutyl-1,2,3,4-tetrahydro-naphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCc1c(C)cc(C)cc1C,"1,3,5-trimethyl-2-octadecylbenzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(CCCC)CCCC,5-butyl-eicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(CCCCCC)CCCCCC,7-hexyl-docosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(CCCCCCC)CCCCCCC,8-heptylpentadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)(c1ccccc1)c1ccccc1,"2,2-diphenylbutane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCCCCCCCCOC(=O)CCCCCCCCC(=O)OCC1(C)CCCCC1,decanedioic acid isotridecyl ester 1-methylcyclohexylmethyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCc1ccccc1,nonadecylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCOC(=O)CCCCC(=O)OCCCCCCC,diheptyl adipate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccc(Cc2ccccc2)cc1,1-methyl-4-(phenylmethyl)-benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(C)(CCCC)CC(C)C,5-isobutyl-5-methyl-dodecane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(CC)c1ccccc1,3-phenylhexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCC1C(C)CC(C)CC1C,"1,3,5-trimethyl-2-octadecyl-cyclohexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC,dodecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OCC,"5,8,11,14-eicosatetraenoic acid, ethyl ester",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)C[C@H]1CCC[C@@H](CC(=O)OCCCCCCCC)C1,"cis-cyclohexane-1,3-diyl-diacetic acid dioctyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCCCCCCCc1ccccc1,"benzene, heptacosyl-",Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)CCCc1ccc(C)cc1,4-(4-methyl-phenyl)-butyric acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(C)C=CC(C)(C)C,"2,2,5-trimethyl-3-tridecene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCOC(=O)c1ccc(C(=O)OCCCCC)cc1,"1,4-benzenedicarboxylic acid dipentyl ester",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC1CCCCC1C1CCCCC1,2-methylbicyclohexyl,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC=C(c1ccccc1)c1ccccc1,diphenylheptene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(CCCCCCCCCCc2ccccc2)cc1,"1,10-diphenyldecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCC)CCCC1CCCCC1,7-(3-cyclohexyl-propyl)-tridecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)OCC,ethyl tetratriacontanoate,Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC1CCCCC1,1-cyclohexyldecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC(CCCCCCCCCCCCCCCC)C1CCCCC1,17-cyclohexyl-tritriacontane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(CCC)CCCCC(CCC)CCC,"4,9-dipropyl-dodecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(=O)OC(C)COCC(C)OC(=O)CCCCC,bis-(2-hexanoyloxy-propyl) ether,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CCOC(=O)CCCCCCCC(=O)OCCC(C)CC(C)(C)C)CC(C)(C)C,"nonanedioic acid bis-(3,5,5-trimethyl-hexyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCCCCCCC(=O)OC)OC(=O)CC,12-propionyloxy-octadecanoic acid methyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(c1ccccc1)c1ccccc1,"1,1-diphenylbutane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCC)CC(C)(CCCC)CCCCCC,"7,9-dibutyl-9-methylpentadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(CC)CCCCC(CC)CC,"3,8-diethyldecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(C)CC(C)CC(C)C,"2,4,6-trimethylheneicosane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCCC1CCC2CCCCC2C1,1-(decahydro-naphthalen-2-yl)-docosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CCC(C)CC(C)(C)C)CCC(C)CC(C)(C)C,"2,2,4,7,10,12,12-heptamethyltridecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)(C)CCCCCCCCCCCCC(C)(C)C,"2,2,15,15-tetramethylhexadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCOC(=O)CCCCCCCCCCC,dodecanoic acid octadecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(=O)c1ccccc1,benzoic acid 2-ethyl-hexyl ester,Density_100C;Density_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC=CCCCCCC,7-tetradecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(=O)OCCOCCOC(C)=O,diethylene glycol diacetate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(C)(C)C(=O)OCC(C)(C)COC(=O)C(C)(C)CCCC,"2,2-dimethyl-hexanoic acid 3-(2,2-dimethylhexanoyloxy)-2,2-dimethyl-propyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCCC1CCCCC1,1-cyclohexyl-docosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCC=C(C)C,2-methyl-heptadec-2-ene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(=CCC(C)C)c1ccccc1,(4-methyl-1-pentyl-1-pentenyl)benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC1CCCC1,dodecylcyclopentane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(CC(C)C)CC(C)C,"2,6-Dimethyl-4-propylheptane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC1CCCCC1C1CCCCC1,2-ethylbicyclohexyl,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCOC(=O)CCCCCCCCC(=O)OCCC,dipropyl decanedioate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCOC(=O)CCC(CC)C(=O)OCCCC,2-ethyl-pentanedioic acid dibutyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCc1ccc2ccccc2c1C,2-ethyl-1-methylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC=C(CCCC)CCCC,5-butyl-4-nonene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC(=O)OCCCC,butyl octadecanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(CCCC(CCCc2ccccc2)Cc2ccccc2)cc1,"4-benzyl-1,7-diphenyl-heptane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC1CCC(OC(=O)CCCCC(=O)OC2CCC(C)CC2)CC1,hexanedioic acid bis-(4-methyl-cyclohexyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CO)CCCC,2-butyl-1-dodecanol,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccc(CC(CC(=O)OC(C)C)C(=O)OC(C)C)cc1,2-(4-methyl-benzyl)-butanedioic acid diisopropyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(C)CCCCC,6-methylpentadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC1CCCC2CCCCC12,decahydro-1-octylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)(COC(=O)C(C)(C)C)COC(=O)C(C)(C)C,"2,2-dimethyl-propionic acid 3-(2,2-dimethylpropionyloxy)-2,2-dimethyl-propyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(COC(=O)CCCCC(=O)OCC(CCCCCCC)C(C)C)C(C)C,hexanedioic acid bis-(2-isopropyl-nonyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC=CCC=CCCCCCCCCCCCC(=O)OC,"methyl Z,Z 13,16-docosadienoate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCOC(=O)CCCCC(=O)OCCCCC,dipentyl hexanedioate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(C)(C)COC(=O)CCCCCCCCCCC(=O)OCC(C)(C)CCCCCCCC,"dodecanedioic acid bis-(2,2-dimethyl-decyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(=O)OCCCCC(COC(=O)CCCCC)OC(=O)CCCCC,"1,2,6-tris-(hexanoyloxy)-hexane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCCCC)C1CC(C)CCC1C,"11-(2,5-dimethyl-cyclohexyl)-heneicosane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(=O)OCC(CC)(COC(=O)CCCCCC)COC(=O)CCCCCC,"heptanoic acid 2,2-bis-(heptanoyloxymethyl)-butyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCc1cccc2ccccc12,1-butyl-naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC[C@@H]1CCCC[C@@H]1CC1CCCCC1,cis-1-ethyl-2-cyclohexylmethyl-cyclohexane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(Oc2ccccc2)cc1,diphenyl ether,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(CCCCCCC)C1CCC(C)CC1,8-(4-methyl-cyclohexyl)-nonadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+O=C(CCCCC(=O)OC1CCCCC1)OC1CCCCC1,dicyclohexyl hexanedioate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC1CCCC(CC2CCCCC2)C1,1-ethyl-3-cyclohexylmethyl-cyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)CC1CCCCC1,cyclohexyl-acetic acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(=O)OCCCCCCCCCCCCCC,tetradecyl hexadecanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCc1cccc2ccccc12,1-dodecylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCC)C1CCCCC1,7-cyclohexyltridecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(CC)COC(=O)CCCCCCCCC(=O)OCC(CC)CC,decanedioic acid bis-(2-ethyl-butyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(CCCCC2CCCCC2)CC1,"1,4-dicyclohexylbutane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC,"1,2,3-propanetriyl tributanoate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCc1cc2cc(C)ccc2cc1C,"2,6-dimethyl-3-octyl-naphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCc1ccccc1,decylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC1CC(C(C)C)CCC1C,1-dodecyl-3-isopropyl-6-methylcyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=CCCCCCCCCCCCCCCCCCC,1-eicosene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CCCC)CCCCCC(CCCC)CCCC,"5,11-dibutylpentadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(CCCCCCCC)CCCCCCCC,9-octyl-tetracosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)CC1CCCC2CCCCC21,1-(2-ethylhexyl)decahydronaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC1C(C2CCCC2)CCC1C1CCCC1,"1,3-dicyclopentyl-2-dodecyl-cyclopentane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C(CCCC1CCCCC1)CCC1CCCCC1,"1,6-dicyclohexyl-hexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC=CCC=CCC=CCC=CCC=CCC=CCCC(=O)OC,"methyl Z,Z,Z,Z,Z,Z 4,7,10,13,16,19-docosahexaeneoate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCCCCCCC(=O)OCC(CC)CCCC)OC(=O)CC,12-propionyloxy-octadecanoic acid 2-ethyl-hexyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(C2CCCC2)cc1,cyclopentylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=C(C)C1CCC(C)CC1c1ccccc1,1-(1-methylethenyl)-2-phenyl-4-methylcyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)C(=O)OCC(COC(=O)C(C)C)(COC(=O)C(C)C)COC(=O)C(C)C,pentaerythritol tetraisobutanoate,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1cc(C)c(C2CCCC2)c(C)c1,"1-cyclopentyl-2,4,6-trimethylbenzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(CCCc2ccccc2)cc1,"1,3-diphenyl-propane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC=C(C)c1ccccc1,2-phenyl-2-undecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)C1CCCCC1C(=O)OCCCCCCCCCCCC,"cyclohexane-1,2-dicarboxylic acid didodecyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(CC)COCCOC(=O)CCCCC(=O)OCCOCC(CC)CC,hexanedioic acid bis-(2-(2-ethyl-butoxy)-ethyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)C1CCCC2CCCCC21,isopropyl-decahydro-naphthalene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCc1ccc2c(c1)CCCC2,6-octyltetralin,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCC)CCCCCC,7-propyltridecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCOC(=O)CCC(=O)OCCC(C)C,bis(3-methylbutyl) butanedioate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(CCC(CCC(C)CC(C)(C)C)CCC(C)CC(C)(C)C)CC(C)(C)C,"2,2,4,10,12,12-hexamethyl-7-(3,5,5-trimethyl-hexyl)- tridecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(=O)CCCCCCCCC(=O)OCC(CC)CCCC,decanedioic acid bis-(2-ethyl-hexyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)C1CCCCC1,cyclohexanecarboxylic acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCCCc1ccc2c(c1)CCC2,5-isooctyl-indan,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(C)CC(C)CC(C)C,"nonadecane, 2,4,6-trimethyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CC(c1ccccc1)c1ccccc1,"1,1-diphenyl-3-methylbutane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(=O)OCC(COC(=O)CCCCCCC)OC(=O)CCCCCCC,"1,2,3-tris-(octanoyloxy)-propane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC=C(CC)CCCCCCCCCCCCCCC,3-ethyl-2-octadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C(CCCCC1CCCCC1)CCCC1CCCCC1,"1,8-dicyclohexyloctane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(C)(CCC)CCCCC,6-methyl-6-propyl-tridecane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)c1ccccc1Cc1ccccc1,1-benzyl-2-sec-butyl-benzene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(=O)OCC(COC(=O)CCCCC)(COC(=O)CCCCC)COC(=O)CCCCC,pentaerythritol trihexanoate tetradecanoate,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCOC(=O)CCCC,octadecyl pentanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCC1CCCC1C1CCCC1,1-cyclopentyl-2-octadecylcyclopentane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=CCCCCCCCCCCC,1-tridecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC1C(C)CC(C)CC1C,"1,3,5-trimethyl-2-decyl-cyclohexane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(C1CCCCC1)C1CCCCC1,"1,1-dicyclohexyl-pentane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(=O)OCc1ccc(CC)cc1,decanoic acid 4-ethyl-benzyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC=C(C)CCCCCCCC,9-methyl-8-heptadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(C2CCC(C3CCCC3)C2)C1,"1,3-dicyclopentylcyclopentane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(CC(C)C)(CC(C)C)c1ccccc1,"(1,1-bis(2-methylpropyl)octyl)benzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(C)c1cc2c(cc1C(C)C)C(C)(C)CC2,"1,1-dimethyl-6-(1-methylethyl)-5-(1-methylpentyl)indan",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccc(CC(C)c2ccc(C)cc2)cc1,"1,2-bis(4-methylphenyl)propane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCCCCCCC(=O)Oc1ccccc1)OC(C)=O,12-acetoxy-octadecanoic acid phenyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)(C)c1ccc(C(=O)OCCCCCOC(=O)c2ccc(C(C)(C)C)cc2)cc1,"1,5-bis-(4-tert-butyl-benzoyloxy)-pentane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(CCC)(CCC)C(C)C,4-(1-Methylethyl)-4-propylheptane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CCCC)CCCCCCCCC(CCCC)CCCC,"5,14-dibutyl-octadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CCCC)(CCCC)CCCC,"5,5-dibutylnonane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+COC(=O)CCCCCCCCCCCCC(C)C,methyl 14-methylpentadecanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCOC(=O)COCCOCCOCC(=O)OCCC(C)C,"3,6,9-trioxa-undecanedioic acid diisopentyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(=O)CCCc1ccc(C)cc1,4-(4-methyl-phenyl)-butyric acid 2-ethyl-hexyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(CCCC)CCCC,5-butyl-hexadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC1CCC(C)C(C)C1,"1,2-dimethyl-4-heptyl-cyclohexane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(=O)OCC(COC(=O)CCCCC)(COC(=O)CCCCC)COC(=O)CCCCCCCCCC,pentaerythritol dihexanoate diundecanoate,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)c1ccccc1-c1ccccc1,2-sec-butyl-biphenyl,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(CCCCCCC)C(=O)OC,methyl 2-heptylnonanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC/C=C\CCCCCCCC(=O)OCCCC,cis-octadec-9-enoic acid butyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCc1ccccc1)CCC1CCCCC1,3-(2-cyclohexyl-ethyl)-1-phenyl-tridecane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(C)COC(=O)CCCCCC(=O)OCC(C)CCC,heptanedioic acid bis-(2-methyl-pentyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(=O)OCC(CC)(CC)C(CC)OC(=O)CCCCCCCC,"2,2-diethyl-pentane-1,3-diol dinonanoate",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCOC(=O)CCCCC(=O)OCCCCCCCCC,hexanedioic acid dinonyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC=C(CCCCCCC)CCCCCCC,8-heptyl-7-pentadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC1CCCCC1CCCC,1-butyl-2-hexylcyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C(CCCCCC1CCCCC1)CCCCC1CCCCC1,"1,10-dicyclohexyl-decane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(CCCC(CCCC2CCCCC2)CCc2ccccc2)cc1,7-cyclohexyl-4-phenethyl-1-phenyl-heptane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCc1ccc(CCCCCC)c(CCCCCC)c1CCCCCC,tetrahexyl-benzene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(CCCc1ccccc1)CCCc1ccccc1,"1,7-diphenyl-4-nonyl-heptane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccc(-c2cccc(C)c2C(C)C)cc1,"3,4'-dimethyl-2-(1-methylethyl)-1,1'-biphenyl",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCc1ccc(CCCCCCCC)cc1,"1,4-dioctylbenzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCC)CCCC,5-butyl-pentadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC1CCCC1,1-cyclopentyldecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)CCC(C)OC(=O)CCCCC(=O)OC(C)CCC(CC)CCCC,hexanedioic acid bis-(4-ethyl-1-methyl-octyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(CCC)COC(C)=O,acetic acid 2-propyl-tridecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCC(C)(C)COC(=O)CCCCCCCC(=O)OCC1(C)CCCCC1,"nonanedioic acid 2,2-dimethylpentyl ester 1-methylcyclohexylmethyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(C)(C)COC(=O)CCCCC(=O)OCC(C)(C)CCCCC,"hexanedioic acid bis-(2,2-dimethyl-heptyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)OC,"methyl (Z,Z)-9,12-octadecadienate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC/C=C/C/C=C/CCCCCCCC(=O)OC,"9,12-octadecadienoic acid, methyl ester, (E,E)-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(CO)CCCCC,2-pentyl-1-undecanol,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC(CCCC)c1ccccc1,5-phenyldocosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(C2CCCCC2)CC1,bicyclohexyl,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCCCCC)(CCCCCCC)CCCCCCC,"7,7-diheptylpentadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCC=C(CCCC)c1cccc2ccccc12,1-(1-butyl-1-hexadecenyl)naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC1CC2CC(C)CCC2CC1C,"2,6-dimethyl-3-octyl-decahydro-naphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCC)CCC,4-propyltetradecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)C(c1ccccc1)c1ccccc1,"1,1-diphenyl-2-methylpropane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)C(=O)OCCCOC(=O)C(CC)CCCC,"1,3-bis-(2-ethyl-hexanoyloxy)-propane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCOC(=O)CCCCCCCCC(=O)OCCCCC,dipentyl decanedioate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)CCC(C)C,"nonane, 5-ethyl-2-methyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCOC(=O)CCCCCCCCC,decyl decanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCC)CC1CCCC1,7-cyclopentylmethyl-tridecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCC(C)(C)c1ccccc1,"(1,1,4-trimethylpentyl)benzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCc1ccccc1,1-phenylundecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(OCCOc2ccccc2)cc1,"1,2-diphenoxyethane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(C)(C)C(=O)OCC(C)(C)COC(=O)C(C)(C)CCCCC,"2,2-dimethyl-heptanoic acid 3-(2,2-dimethylheptanoyloxy)-2,2-dimethyl-propyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCCCC)c1cc(C)ccc1C,"11-(2,5-dimethylphenyl)henicosane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)Cc1ccccc1-c1ccccc1,2-isobutylbiphenyl,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)CCCCCCC(C)CCCCCC,"7,14-dimethyleicosane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC1CCCC(C2CCCCC2)C1,1-cyclohexyl-3-methylcyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)OC(=O)CCCCCCCCC(=O)OC(C)C,decanedioic acid diisopropyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(CC)COC(C)=O,acetic acid 2-ethyl-tetradecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(CC(C)C)CC(C)C,2-methyl-4-(2-methylpropyl)hexadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCCCCCCC)CCC1CCCCC1,9-(2-cyclohexyl-ethyl)-heptadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(=O)OCC,hexadecanoic acid ethyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOCCOCCOCCO,2-[2-[2-(octyloxy)ethoxy]ethoxy]ethanol,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC1(COCC2(C)CCCCC2)CCCCC1,bis-[(1-methyl-cyclohexyl)-methyl] ether,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(Cc1ccccc1)c1ccccc1,"1,2-diphenyl-butane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCc1c(C)cc(C)c2ccccc12,"1-ethyl-2,4-dimethylnaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(Cc1ccccc1)c1ccccc1,"1,2-diphenylpropane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)CCCCCCCC,octyl nonanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)C1CCC(C(C)CC)C2CCCCC12,"decahydro-1,4-bis(1-methylpropyl)naphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCC(C)CCCC(C)CCCC(C)C,"2,6,10,14-tetramethylpentadecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCOC(=O)CC(Cc1cccc(C)c1)C(=O)OCC,2-(3-methyl-benzyl)-butanedioic acid diethyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(CCCOCCCCCOCCCc2ccccc2)cc1,"1,5-bis-(3-phenyl-propoxy)-pentane",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)c1cccc2ccccc12,1-(1-methylheptyl)naphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC1CCCCC1,1-cyclohexyl-undecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC(=O)OC(C)C,hexadecanoic acid isopropyl ester,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CO)CCCCCC,2-hexyl-1-decanol,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCc1ccc2c(c1)CCCC2,"naphthalene, 6-decyl-1,2,3,4-tetrahydro-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCc1cc(C)cc(C)c1C,"1-hexadecyl-3,5,6-trimethylbenzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C(CCCOCCC1CCCCC1)CCOCCC1CCCCC1,"1,6-bis(2-cyclohexylethoxy)hexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CCCC)CCC(CCCC)CCCC,"5,8-dibutyldodecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCCCCCOC(=O)CCCCCCCCC(=O)OCC1(C)CCCCC1,decanedioic acid isodecyl ester 1-methylcyclohexylmethyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C1CCCC1)C1CCCC1,"1,1-dicyclopentylethane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)C1CCCCC1C1CCCCC1,2-isopropylbicyclohexyl,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(CC2CCCCC2)CC1,dicyclohexylmethane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC1CCC2CCCCC12,1-hexadecyl-octahydro-1H-indene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCc1cc2c(cc1CCCC)CCCC2,"7-butyl-6-octyl-1,2,3,4-tetrahydronaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)c1ccc(C)cc1,4-methyl-benzoic acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCc1ccc(C)cc1C,"1,3-dimethyl-4-octadecylbenzene",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(CC)(CC)CCC(CC)(CC)CC,"3,3,6,6-tetraethyloctane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCCC)CCCCCCCCC,10-nonyleicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(=O)Oc1cccc(C)c1,dodecanoic acid (3-methyl-phenyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCCCCCCC)C(CC)CC,11-(1-ethylpropyl)heneicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC(CCCC)C1CCC2(CCCCC2)CC1,3-(1-butyloctadecyl)spiro[5.5]undecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCC(C)c1ccc(Cc2ccccc2)cc1,1-benzyl-4-sec-butyl-benzene,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCC1CCCCC1)CCC1CCCCC1,1-cyclohexyl-3-(2-cyclohexyl-ethyl)-tridecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCC,Pentadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCc1ccc(C)c2ccccc12,1-ethyl-4-methylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)C1CCC(C(C)C2CCCCC2)CC1,1-cyclohexyl-1-(4-isopropyl-cyclohexyl)-ethane,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC/C=C\CCCCCCCC(=O)OCCCCC,cis-octadec-9-enoic acid pentyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCC(CCC(C)C)(CC(C)C)C1CCCCC1,(4-methyl-1-(2-methylpropyl)-1-(3-methylbutyl)pentyl)cyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCCCCCCC)CCc1ccccc1,9-phenethyl-heptadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+COCCOCCOCCOC,"2,5,8,11-tetraoxadodecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(C)C(C)C(C)C(=O)OC,"methyl 2,3,4-trimethylhexadecanoate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC1CCCc2c(C)ccc(C)c21,"1,2,3,4-tetrahydro-5,8-dimethyl-1-octyl-naphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(C)c1ccccc1,2-phenylundecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CC)CC,3-ethyl-tridecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(C)(Cc1ccccc1)CC(C)C,[2-methyl-2-(2-methylpropyl)nonyl]benzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)CCCC1CCC(C)CC1,4-(4-methyl-cyclohexyl)-butyric acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)(C)CC(C)(C)c1cccc2ccccc12,"1-(1,1,3,3-tetramethyl-butyl)-naphthalene",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)CCCc1ccccc1,4-phenyl-butyric acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(CCC(CCC2CCCC2)CCC2CCCC2)C1,"1,5-dicyclopentyl-3-(2-cyclopentyl-ethyl)-pentane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCc1ccccc1CCCCCCC,diheptylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=C(C)CCCCCCCCCCCCCCCCC(=C)C,"2,19-dimethyl-1,19-eicosadiene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(C)(CC)C1CCCC2CCCCC21,1-(1-ethyl-1-methylpentyl)decahydronaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(=O)OCC(COC(=O)CCCCCC)(COC(=O)CCCCCC)COC(=O)CCCCCCCC,pentaerythritol diheptanoate dinonanoate,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCC(CCCCCCCCCCCCCC)c1ccccc1,15-phenylnonacosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)(C)C(C1CCCCC1)C(C1CCCCC1)C(C)(C)C,"1,2-bis(1,1-dimethylethyl)-1,2-dicyclohexylethane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOCCCCCCOCCCCCCCC,"1,6-bis(octyloxy)hexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC1CCC(C2CCC(CCCC)CC2)CC1,"4,4'-dibutyl-bicyclohexyl",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC(OC(C)=O)C(=O)OCCCC,2-acetoxy-octadecanoic acid butyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)c1ccc(Cc2ccccc2)cc1,1-benzyl-4-isopropylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC1CCCC1,hexadecylcyclopentane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(=O)OC(C)CCCCCC,1-methylheptyl nonanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCC1CCCCC1,1-cyclohexylnonadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(C)(C)O,2-methyl-2-dodecanol,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC=CC(C)CCC,5-methyl-4-undecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCC)c1ccccc1,4-phenyltetradecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CCCC)CCCC,5-butylnonane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(CC1CCCCC1)CC1CCCCC1,1-cyclohexyl-2-cyclohexylmethyl-pentadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(=O)CCC(CC(=O)OCC(CC)CCCC)C(=O)OCC(CC)CCCC,"tris(2-ethylhexyl) 1,2,4-butanetricarboxylate",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCOC(=O)CC(Cc1cccc(C)c1)C(=O)OCCC,2-(3-methyl-benzyl)-butanedioic acid dipropyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCc1cc2c(cc1CCCC)CCCC2,"6,7-dibutyl-1,2,3,4-tetrahydronaphthalene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCOC(=O)CC(CC(=O)OCCCCC)C(=O)OCCCCC,"propane-1,2,3-tricarboxylic acid tripentyl ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(=O)OC,"tetradecanoic acid, methyl ester",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(C)(C)C,"pentadecane, 2,2-dimethyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC(CCCCCCCCCCC)CCCCCCCCCCCC,13-undecylpentacosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(C2CCC3CCCCC3C2)cc1,decahydro-2-phenylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCC=C(c1ccccc1)c1ccccc1,"1,1-diphenyl-1-tetradecene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC1CCC(CCCCCCCCCC)CC1,"1,4-didecylcyclohexane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)COC(=O)CCCCCCCC(=O)OCC(CC)CCCC,nonanedioic acid bis-(2-ethyl-hexyl) ester,Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCC1CCCC1C1CCCC1,1-cyclopentyl-2-hexadecylcyclopentane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCOC(C)=O,nonadecyl ethanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=CC(C)CCCCCCCCCCC,3-methyl-1-tetradecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCc1ccc2ccccc2c1,2-hexylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCC(CCCCC)C(CCCCC)CCCCC,"6,7-dipentyl-dodecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCC(O)=C(CCCCCCCCCCCC)C(=O)OCC,2-dodecyl-3-hydroxy-2-hexadecenoic acid ethyl ester,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCC(CCCCC)CCCCCCCCC,10-pentyleicosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCC)(CCC)CCCC,"5,5-dipropyl-undecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCC(CCCCC)COC(C)=O,acetic acid 2-pentyl-undecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCCCCCCC)CCCCCCCC,9-octyl-heptadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CC)CCC(CC(C)C)OC(=O)CCCCC(=O)OC(CCC(CC)CCCC)CC(C)C,hexanedioic acid bis-(4-ethyl-1-isobutyl-octyl) ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(CCCCCCCCCCC(=O)OCCCC)OC(=O)CCCCC(=O)OC,hexanedioic acid 11-butoxycarbonyl-1-hexyl-undecyl ester methyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(C)(C)COC(=O)CCCCCCCCC(=O)OCC(C)(C)CCCCCCCC,"decanedioic acid bis-(2,2-dimethyl-decyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCc1cccc2ccccc12,1-ethylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCCC1CCCC1)CCCC1CCCC1,1-cyclopentyl-4-(3-cyclopentylpropyl)dodecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C=C(c1ccccc1)c1ccccc1,"1,1-diphenylethene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCOC(C)(C)CC(C)(C)C,"2-pentoxy-2,4,4-trimethyl-pentane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCC1CCCCC1,pentadecylcyclohexane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCC(C)(C)COC(=O)CCCCCCCCC(=O)OCC(C)(C)CCCCCCC,"decanedioic acid bis-(2,2-dimethyl-nonyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCOC(=O)CCc1ccccc1,3-phenyl-propionic acid dodecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(=O)Oc1ccccc1,dodecanoic acid phenyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCC(=O)OC(C)C,"octadecanoic acid, 1-methylethyl ester",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(=O)OCC(COC(=O)CCCC)(COC(=O)CCCC)COC(=O)CCCC,pentaerythritol tetrapentanoate,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+c1ccc(C2CCCC2)c(C2CCCC2)c1,dicyclopentylbenzene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+C1CCC(CC(C2CCCCC2)C2CCCCC2)CC1,"1,1,2-tricyclohexylethane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCOC(=O)CC(Cc1ccccc1)C(=O)OCCCCCCCC,2-benzyl-butanedioic acid dioctyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCC(CCCCCCCCCC)CCCCCCCCCC,11-decyldocosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CC)(CCCC)CCCCC,6-butyl-6-ethyltetradecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+COCCOCCOCCOCCOC,dimethoxytetraglycol,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC(C)(C)COC(=O)CCCCCCCCC(=O)OCC(C)(C)CCCCCC,"decanedioic acid bis-(2,2-dimethyl-octyl) ester",Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCC(CCCCCC)CCCCCCCC,9-hexylheptadecane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC(C)C,"1,2-benzenedicarboxylic acid, diisodecyl ester",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCC(CCCC)CCCCC(CCCC)CCCC,"5,10-dibutyl-tetradecane",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCC=CCCCCCCC,7-pentadecene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)Cc1cccc2ccccc12,1-isobutylnaphthalene,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCCCCc1ccccc1,"benzene, tetracosyl-",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCCCCCCCCCCCCCCCCCCCCCCCCCC,octacosane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCc1ccc(C(C)CCC)cc1C(C)CCC,"2,4-bis(1-methylbutyl)-1-propylbenzene",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+Cc1ccccc1Cc1ccccc1C,di-o-tolylmethane,Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CC(C)CCCCCCCCCCOC(=O)CCCCCCCCC(=O)OCCCCCCCCCCC(C)C,decanedioic acid diisotridecyl ester,Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009
+CCCc1ccccc1-c1ccccc1,"2-propyl-1,1'-biphenyl",Density_100C;Density_40C;Thermal_Conductivity_100C;Thermal_Conductivity_40C;Viscosity_100C;Viscosity_40C,NIST_WebBook;LB2009

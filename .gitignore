@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+.env
+.DS_Store
+
+# Local data — do not commit retrieved NIST/LB property values
+*.csv
+!molecules/*.csv
+descriptors/
+fingerprints/
+embeddings/
+models/
+*.pkl
+*.json
+*.h5
