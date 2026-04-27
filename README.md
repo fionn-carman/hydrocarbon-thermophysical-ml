@@ -30,7 +30,7 @@ model family in the paper:
   graphs
 
 Each model folder has per-property training scripts (`train_*.py`) and
-a small `FileGenerator.py` that generates them. The scripts expect
+a small `FileGenerator.py` that generates those scripts. The scripts expect
 pre-computed descriptor/fingerprint/embedding files (paths are set at
 the top of each script). Those feature-generation scripts, the LAMMPS
 input files, and any training scripts not included here are available
