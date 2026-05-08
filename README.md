@@ -4,7 +4,7 @@ Code and molecule lists supporting:
 
 > Ogbomo, E.; Carman, F.; Dini, D.; Ewen, J. P. Benchmarking Molecular
 > Dynamics Simulations and Machine Learning Methods for Predicting
-> Hydrocarbon Thermophysical Properties. *J. Chem. Inf. Model.* 2026.
+> Hydrocarbon Thermophysical Properties. 2026.
 
 The experimental property values used for training came from the NIST
 Chemistry WebBook and the Landolt-Börnstein series. Both are licensed
@@ -32,6 +32,12 @@ model family in the paper:
 Each model folder has per-property training scripts (`train_*.py`) and
 a small `FileGenerator.py` that generates those scripts. The scripts expect
 pre-computed descriptor/fingerprint/embedding files (paths are set at
-the top of each script). Those feature-generation scripts, the LAMMPS
-input files, and any training scripts not included here are available
-from the corresponding authors on request.
+the top of each script). Feature-generation scripts and any training
+scripts not included here are available from the corresponding authors
+on request.
+
+`lammps scripts/` contains the LAMMPS input files used for the squalane
+EMD simulations: the L-OPLS data file (`Squalane_LOPLS_fixed.data`),
+the init and settings includes (`Squalane_OPLS.in.init`,
+`Squalane_OPLS.in.settings`), and the equilibrium MD driver
+(`Squalane_OPLS_EMD.lammps`).

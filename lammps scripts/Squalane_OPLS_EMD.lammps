@@ -1,0 +1,186 @@
+# Squalane LOPLS-AA EMD, 313 K, 1 atm
+# usage: lmp -var run_id N -var velocity_seed S -in Squalane_OPLS_EMD.lammps
+
+variable        T              equal 313
+variable        P              equal 1.0
+variable        run_id         index 1
+variable        velocity_seed  index 91837
+
+log             logEMD_Squalane_OPLS_T${T}K_run${run_id}.out
+
+include         Squalane_OPLS.in.init
+read_data       Squalane_LOPLS_fixed.data
+include         Squalane_OPLS.in.settings
+
+# Stage A: soft push-off
+min_style       cg
+min_modify      dmax 0.05
+minimize        1.0e-4 1.0e-6 1000 10000
+
+velocity        all create 10.0 ${velocity_seed} mom yes rot yes dist gaussian
+fix             softpush all nve/limit 0.05
+fix             softT    all temp/rescale 1 10.0 50.0 1.0 1.0
+thermo          100
+run             5000
+unfix           softT
+unfix           softpush
+
+# Stage B: CG minimisation
+min_style       cg
+min_modify      dmax 0.1
+minimize        1.0e-6 1.0e-8 100000 500000
+write_restart   Min_Squalane_OPLS_T${T}K_run${run_id}.restart
+reset_timestep  0
+
+# Stage C: 1 ns NPT
+variable        p    equal 100
+variable        s    equal 10
+variable        d    equal $s*$p
+variable        rho  equal density
+
+velocity        all create ${T} ${velocity_seed} mom yes rot yes dist gaussian
+fix             NPT   all npt temp ${T} ${T} 100.0 iso ${P} ${P} 25.0
+fix             dave  all ave/time $s $p $d v_rho ave running &
+                    file eqmDensity_Squalane_OPLS_T${T}K_run${run_id}.out
+
+thermo          $d
+thermo_style    custom step temp press density pxx pyy pzz pe ke etotal evdwl ecoul ebond eangle edihed eimp etail enthalpy vol
+thermo_modify   flush yes
+
+fix             thermo_print all print $d &
+                "$(step) $(temp) $(press) $(density) $(pxx) $(pyy) $(pzz) $(pe) $(ke) $(etotal) $(evdwl) $(ecoul) $(ebond) $(eangle) $(edihed) $(eimp) $(etail) $(enthalpy) $(vol)" &
+                append thermoNPT_Squalane_OPLS_T${T}K_run${run_id}.out screen no &
+                title "# step temp press density pxx pyy pzz pe ke etotal evdwl ecoul ebond eangle edihed eimp etail enthalpy vol"
+run             1000000
+unfix           NPT
+unfix           thermo_print
+write_restart   NPT_Squalane_OPLS_T${T}K_run${run_id}.restart
+
+# Stage D: 0.5 ns NVT density rescale
+variable        averho    equal f_dave
+variable        adjustrho equal (${rho}/${averho})^(1.0/3.0)
+unfix           dave
+
+fix             NVTdef  all nvt temp ${T} ${T} 100.0
+fix             adjust  all deform 1 x scale ${adjustrho} y scale ${adjustrho} z scale ${adjustrho}
+
+thermo          $d
+thermo_style    custom step temp press density pxx pyy pzz pe ke etotal evdwl ecoul ebond eangle edihed eimp etail enthalpy vol
+fix             thermo_print all print $d &
+                "$(step) $(temp) $(press) $(density) $(pxx) $(pyy) $(pzz) $(pe) $(ke) $(etotal) $(evdwl) $(ecoul) $(ebond) $(eangle) $(edihed) $(eimp) $(etail) $(enthalpy) $(vol)" &
+                append thermoNVTdef_Squalane_OPLS_T${T}K_run${run_id}.out screen no &
+                title "# step temp press density pxx pyy pzz pe ke etotal evdwl ecoul ebond eangle edihed eimp etail enthalpy vol"
+run             500000
+unfix           NVTdef
+unfix           adjust
+unfix           thermo_print
+write_restart   NVTdeform_Squalane_OPLS_T${T}K_run${run_id}.restart
+write_data      equilibrated_Squalane_OPLS_run${run_id}.data
+
+# Stage E: 2 ns NVT production
+log             logGKvisc_Squalane_OPLS_T${T}K_run${run_id}.out
+
+variable        dt       equal 1.0
+variable        V        equal vol
+variable        kB       equal 1.3806504e-23
+variable        kCal2J   equal 4186.0/6.02214e23
+variable        atm2Pa   equal 101325.0
+variable        A2m      equal 1.0e-10
+variable        fs2s     equal 1.0e-15
+variable        PaS2mPaS equal 1.0e+3
+variable        convert   equal ${atm2Pa}*${atm2Pa}*${fs2s}*${A2m}*${A2m}*${A2m}*${PaS2mPaS}
+variable        convertWk equal ${kCal2J}*${kCal2J}/${fs2s}/${A2m}
+
+timestep        ${dt}
+
+compute         TT       all temp
+compute         myP      all pressure TT
+compute         myKE     all ke/atom
+compute         myPE     all pe/atom
+
+# heat flux: bonded/pair + kspace
+compute         myStressC all centroid/stress/atom NULL pair bond angle dihedral improper
+compute         myStressK all stress/atom         NULL kspace
+compute         fluxC     all heat/flux myKE myPE myStressC
+
+# unit conversion for kspace stress
+variable        nktv2p_real equal 68568.415
+variable        JkXa atom -(c_myStressK[1]*vx+c_myStressK[4]*vy+c_myStressK[5]*vz)/${nktv2p_real}
+variable        JkYa atom -(c_myStressK[4]*vx+c_myStressK[2]*vy+c_myStressK[6]*vz)/${nktv2p_real}
+variable        JkZa atom -(c_myStressK[5]*vx+c_myStressK[6]*vy+c_myStressK[3]*vz)/${nktv2p_real}
+compute         redJkX all reduce sum v_JkXa
+compute         redJkY all reduce sum v_JkYa
+compute         redJkZ all reduce sum v_JkZa
+
+variable        Jtot_x equal c_fluxC[1]+c_redJkX
+variable        Jtot_y equal c_fluxC[2]+c_redJkY
+variable        Jtot_z equal c_fluxC[3]+c_redJkZ
+
+compute         vacf     all vacf
+
+variable        Jx equal v_Jtot_x/vol
+variable        Jy equal v_Jtot_y/vol
+variable        Jz equal v_Jtot_z/vol
+
+fix             NVTprod all nvt temp ${T} ${T} 100.0
+
+variable        myPxx equal c_myP[1]
+variable        myPyy equal c_myP[2]
+variable        myPzz equal c_myP[3]
+variable        myPxy equal c_myP[4]
+variable        myPxz equal c_myP[5]
+variable        myPyz equal c_myP[6]
+
+fix             stress1    all ave/time 1 1 1 v_myPxx v_myPyy v_myPzz v_myPxy v_myPxz v_myPyz &
+                           ave one file Stress_AVGOne111_Squalane_OPLS_T${T}K_run${run_id}.out
+fix             stressSPD  all ave/time $s $p $d v_myPxx v_myPyy v_myPzz v_myPxy v_myPxz v_myPyz &
+                           ave one file Stress_AVGOnespd_Squalane_OPLS_T${T}K_run${run_id}.out
+fix             FluxVector all ave/time $s $p $d v_Jx v_Jy v_Jz &
+                           ave one file HeatFlux_AVGOnespd_Squalane_OPLS_T${T}K_run${run_id}.out
+
+# inline viscosity ACF
+fix             SS all ave/correlate $s $p $d v_myPxy v_myPxz v_myPyz type auto &
+                   file S0St_Squalane_OPLS_run${run_id}.dat ave running
+
+variable        scale equal ${convert}/(${kB}*$T)*$V*$s*${dt}
+variable        v11   equal trap(f_SS[3])*${scale}
+variable        v22   equal trap(f_SS[4])*${scale}
+variable        v33   equal trap(f_SS[5])*${scale}
+
+# inline heat-flux ACF
+fix             JJ all ave/correlate $s $p $d v_Jtot_x v_Jtot_y v_Jtot_z type auto &
+                   file profile_heatflux_Squalane_OPLS_run${run_id} ave running
+
+variable        scaleWk equal ${convertWk}/${kB}/$T/$T/$V*$s*${dt}
+variable        k11 equal trap(f_JJ[3])*${scaleWk}
+variable        k22 equal trap(f_JJ[4])*${scaleWk}
+variable        k33 equal trap(f_JJ[5])*${scaleWk}
+
+# per-step heat current dump
+fix             Jraw all ave/time 1 1 1 v_Jtot_x v_Jtot_y v_Jtot_z &
+                            file HeatFlux_perstep_Squalane_OPLS_T${T}K_run${run_id}.out
+
+fix             5 all vector 1 c_vacf[4]
+variable        vacf equal 0.33*${dt}*trap(f_5)
+
+thermo          $d
+thermo_style    custom step temp press v_myPxy v_myPxz v_myPyz v_v11 v_v22 v_v33 vol v_Jx v_Jy v_Jz v_k11 v_k22 v_k33 v_vacf
+fix             thermo_print all print $d &
+                "$(temp) $(press) $(v_myPxy) $(v_myPxz) $(v_myPyz) $(v_v11) $(v_v22) $(v_v33) $(vol) $(v_Jx) $(v_Jy) $(v_Jz) $(v_k11) $(v_k22) $(v_k33) $(v_vacf)" &
+                append thermoNVTprod_Squalane_OPLS_T${T}K_run${run_id}.out screen no &
+                title "# temp press v_myPxy v_myPxz v_myPyz v_v11 v_v22 v_v33 vol v_Jx v_Jy v_Jz v_k11 v_k22 v_k33 v_vacf"
+
+variable        kav  equal (v_k11+v_k22+v_k33)/3.0
+fix             fxave1 all ave/time $d 1 $d v_kav  file lamda_Squalane_OPLS_run${run_id}.txt
+
+variable        visc equal (v_v11+v_v22+v_v33)/3.0
+fix             fxave2 all ave/time $d 1 $d v_visc file visc_Squalane_OPLS_run${run_id}.txt
+
+fix             fxave3 all ave/time $d 1 $d v_vacf file diff_coeff_Squalane_OPLS_run${run_id}.txt
+
+dump            LAMMPS all custom $d NVTprod_Squalane_OPLS_${T}K_run${run_id}.lammpstrj id mol type xu yu zu mass q
+
+run             2000000
+
+variable        ndens equal count(all)/vol
+print           "Average viscosity: ${visc} [mPa.s] @ $T K, ${ndens} atoms/A^3"

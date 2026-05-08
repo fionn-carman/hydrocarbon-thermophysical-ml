@@ -1,0 +1,3 @@
+neighbor        2.0 bin
+neigh_modify    every 1 delay 0 check yes
+timestep        1.0
