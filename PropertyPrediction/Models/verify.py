@@ -5,7 +5,7 @@ Check the pretrained XGBoost models against the held-out test sets.
 For each property it reads the test SMILES and experimental values from
 ../Data, regenerates the 131 RDKit descriptors from the SMILES, applies the
 StandardScaler that was fitted during training (saved next to each model), runs
-the model, and prints R2 and RMSE on the test set.
+the model, and prints the test-set RMSE.
 
 Everything the model needs travels with it: the weights and the scaler are both
 here in Models/, so no training data is required to reproduce the numbers.
@@ -19,7 +19,7 @@ import pandas as pd
 from joblib import load
 from rdkit import Chem
 from rdkit.ML.Descriptors.MoleculeDescriptors import MolecularDescriptorCalculator
-from sklearn.metrics import r2_score, mean_squared_error
+from sklearn.metrics import mean_squared_error
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "..", "Data")
@@ -80,17 +80,17 @@ def evaluate(prop):
     X = scaler.transform(featurize(test["SMILES"]))
     y_pred = model.predict(X)
     y_true = test[prop]
-    return r2_score(y_true, y_pred), mean_squared_error(y_true, y_pred) ** 0.5, len(y_true)
+    return mean_squared_error(y_true, y_pred) ** 0.5, len(y_true)
 
 
 def main():
-    print(f"{'Property':28s} {'n_test':>7s} {'R2':>8s} {'RMSE':>10s}")
-    print("-" * 56)
+    print(f"{'Property':28s} {'n_test':>7s} {'RMSE':>10s}")
+    print("-" * 47)
     for prop in PROPERTIES:
-        r2, rmse, n = evaluate(prop)
-        print(f"{prop:28s} {n:7d} {r2:8.3f} {rmse:10.4f}")
+        rmse, n = evaluate(prop)
+        print(f"{prop:28s} {n:7d} {rmse:10.4f}")
     print("\nNote: viscosity is modelled as log10(kinematic viscosity in cSt),")
-    print("so its R2/RMSE are reported in log space, as in the paper.")
+    print("so its RMSE is reported in log space, as in the paper.")
 
 
 if __name__ == "__main__":

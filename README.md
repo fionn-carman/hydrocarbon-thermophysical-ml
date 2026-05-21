@@ -39,9 +39,9 @@ the top of each script).
 (`best_xgboost_model_*.joblib`) for density and thermal conductivity at
 40 °C and 100 °C and for viscosity at 40 °C, each with the StandardScaler
 fitted during training (`scaler_*.joblib`). `verify.py` reproduces the
-reported test-set accuracy: it reads each test set, regenerates the 131
+reported test-set RMSE: it reads each test set, regenerates the 131
 RDKit descriptors from the SMILES, applies the matching scaler, runs the
-model, and prints R² and RMSE. 
+model, and prints the test-set RMSE for each property. 
 
 `LAMMPS/` contains the LAMMPS input files used for the squalane
 EMD simulations: the L-OPLS data file (`Squalane_LOPLS_fixed.data`),
